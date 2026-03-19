@@ -1,0 +1,372 @@
+[
+  {
+    "source": "Harry Potter",
+    "target": "Rony Weasley",
+    "weight": 143
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Hermione Granger",
+    "weight": 80
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Rony Weasley",
+    "weight": 72
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Rúbeo Hagrid",
+    "weight": 61
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Harry Potter",
+    "weight": 38
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Harry Potter",
+    "weight": 32
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Severo Snape",
+    "weight": 32
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Vernon Dursley",
+    "weight": 29
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Neville Longbottom",
+    "weight": 28
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Quirrell",
+    "weight": 23
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Harry Potter",
+    "weight": 20
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Vernon Dursley",
+    "weight": 20
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Neville Longbottom",
+    "weight": 17
+  },
+  {
+    "source": "Crabbe",
+    "target": "Goyle",
+    "weight": 17
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Olívio Wood",
+    "weight": 17
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Jorge Weasley",
+    "weight": 16
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Petúnia Dursley",
+    "weight": 15
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Neville Longbottom",
+    "weight": 15
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Rony Weasley",
+    "weight": 15
+  },
+  {
+    "source": "Crabbe",
+    "target": "Draco Malfoy",
+    "weight": 13
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "Vernon Dursley",
+    "weight": 12
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Rúbeo Hagrid",
+    "weight": 12
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Petúnia Dursley",
+    "weight": 11
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Rony Weasley",
+    "weight": 11
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Goyle",
+    "weight": 11
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Harry Potter",
+    "weight": 11
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Minerva McGonagall",
+    "weight": 11
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Severo Snape",
+    "weight": 9
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Severo Snape",
+    "weight": 9
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Rúbeo Hagrid",
+    "weight": 9
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Harry Potter",
+    "weight": 7
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Quirrell",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Voldemort",
+    "weight": 6
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Weasley",
+    "weight": 6
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Hermione Granger",
+    "weight": 6
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Minerva McGonagall",
+    "weight": 5
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Rúbeo Hagrid",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr. H.",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr. Olivaras",
+    "weight": 5
+  },
+  {
+    "source": "Crabbe",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Goyle",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Goyle",
+    "target": "Rony Weasley",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Simas",
+    "weight": 5
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Severo Snape",
+    "weight": 5
+  },
+  {
+    "source": "Firenze",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Severo Snape",
+    "target": "Voldemort",
+    "weight": 5
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "turma de",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "turma de",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Simas Finnigan",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Percy Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Madame",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Jorge Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Nicolau Flamel",
+    "target": "Rony Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Rony Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Canino",
+    "target": "Draco Malfoy",
+    "weight": 4
+  },
+  {
+    "source": "Quirrell",
+    "target": "Voldemort",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "hein",
+    "weight": 3
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame",
+    "weight": 3
+  },
+  {
+    "source": "Percy Weasley",
+    "target": "monitor",
+    "weight": 3
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Voldemort",
+    "weight": 3
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Nicolau Flamel",
+    "weight": 3
+  },
+  {
+    "source": "Crabbe",
+    "target": "Rony Weasley",
+    "weight": 3
+  },
+  {
+    "source": "Edwiges",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Simas",
+    "weight": 3
+  },
+  {
+    "source": "Gringotes",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Rúbeo Hagrid",
+    "weight": 3
+  },
+  {
+    "source": "Madame Hooch",
+    "target": "Neville Longbottom",
+    "weight": 3
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Olívio Wood",
+    "weight": 3
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Rony Weasley",
+    "weight": 3
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Rúbeo Hagrid",
+    "weight": 3
+  },
+  {
+    "source": "Canino",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Canino",
+    "target": "Neville Longbottom",
+    "weight": 3
+  }
+]

@@ -1,0 +1,2387 @@
+[
+  {
+    "source": "Harry Potter",
+    "target": "Rony Weasley",
+    "weight": 143
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Hermione Granger",
+    "weight": 80
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Rony Weasley",
+    "weight": 72
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Rúbeo Hagrid",
+    "weight": 61
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Harry Potter",
+    "weight": 38
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Harry Potter",
+    "weight": 32
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Severo Snape",
+    "weight": 32
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Vernon Dursley",
+    "weight": 29
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Neville Longbottom",
+    "weight": 28
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Quirrell",
+    "weight": 23
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Harry Potter",
+    "weight": 20
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Vernon Dursley",
+    "weight": 20
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Neville Longbottom",
+    "weight": 17
+  },
+  {
+    "source": "Crabbe",
+    "target": "Goyle",
+    "weight": 17
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Olívio Wood",
+    "weight": 17
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Jorge Weasley",
+    "weight": 16
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Petúnia Dursley",
+    "weight": 15
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Neville Longbottom",
+    "weight": 15
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Rony Weasley",
+    "weight": 15
+  },
+  {
+    "source": "Crabbe",
+    "target": "Draco Malfoy",
+    "weight": 13
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "Vernon Dursley",
+    "weight": 12
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Rúbeo Hagrid",
+    "weight": 12
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Petúnia Dursley",
+    "weight": 11
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Rony Weasley",
+    "weight": 11
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Goyle",
+    "weight": 11
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Harry Potter",
+    "weight": 11
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Minerva McGonagall",
+    "weight": 11
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Severo Snape",
+    "weight": 9
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Severo Snape",
+    "weight": 9
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Rúbeo Hagrid",
+    "weight": 9
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Harry Potter",
+    "weight": 7
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Quirrell",
+    "target": "Severo Snape",
+    "weight": 7
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Voldemort",
+    "weight": 6
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Weasley",
+    "weight": 6
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Hermione Granger",
+    "weight": 6
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Minerva McGonagall",
+    "weight": 5
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Rúbeo Hagrid",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr. H.",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr. Olivaras",
+    "weight": 5
+  },
+  {
+    "source": "Crabbe",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Goyle",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Goyle",
+    "target": "Rony Weasley",
+    "weight": 5
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Simas",
+    "weight": 5
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Severo Snape",
+    "weight": 5
+  },
+  {
+    "source": "Firenze",
+    "target": "Harry Potter",
+    "weight": 5
+  },
+  {
+    "source": "Severo Snape",
+    "target": "Voldemort",
+    "weight": 5
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "turma de",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "turma de",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Simas Finnigan",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Percy Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Madame",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Jorge Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Nicolau Flamel",
+    "target": "Rony Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Rony Weasley",
+    "weight": 4
+  },
+  {
+    "source": "Canino",
+    "target": "Draco Malfoy",
+    "weight": 4
+  },
+  {
+    "source": "Quirrell",
+    "target": "Voldemort",
+    "weight": 4
+  },
+  {
+    "source": "Harry Potter",
+    "target": "hein",
+    "weight": 3
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame",
+    "weight": 3
+  },
+  {
+    "source": "Percy Weasley",
+    "target": "monitor",
+    "weight": 3
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Voldemort",
+    "weight": 3
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Nicolau Flamel",
+    "weight": 3
+  },
+  {
+    "source": "Crabbe",
+    "target": "Rony Weasley",
+    "weight": 3
+  },
+  {
+    "source": "Edwiges",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Simas",
+    "weight": 3
+  },
+  {
+    "source": "Gringotes",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Rúbeo Hagrid",
+    "weight": 3
+  },
+  {
+    "source": "Madame Hooch",
+    "target": "Neville Longbottom",
+    "weight": 3
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Olívio Wood",
+    "weight": 3
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Rony Weasley",
+    "weight": 3
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Rúbeo Hagrid",
+    "weight": 3
+  },
+  {
+    "source": "Canino",
+    "target": "Harry Potter",
+    "weight": 3
+  },
+  {
+    "source": "Canino",
+    "target": "Neville Longbottom",
+    "weight": 3
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Sr. Dursley",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Lílian",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sei",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Hum",
+    "weight": 2
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Tia",
+    "weight": 2
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "Tia",
+    "weight": 2
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Vernon Dursley",
+    "weight": 2
+  },
+  {
+    "source": "Hum",
+    "target": "Rúbeo Hagrid",
+    "weight": 2
+  },
+  {
+    "source": "Gringotes",
+    "target": "Rúbeo Hagrid",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Tom",
+    "weight": 2
+  },
+  {
+    "source": "Certo",
+    "target": "Harry Potter",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame Malkin",
+    "weight": 2
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Sr. Olivaras",
+    "weight": 2
+  },
+  {
+    "source": "Perebas",
+    "target": "Rony Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Flitwick",
+    "target": "Harry Potter",
+    "weight": 2
+  },
+  {
+    "source": "Flitwick",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Jorge Weasley",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Rúbeo Hagrid",
+    "weight": 2
+  },
+  {
+    "source": "Carlinhos",
+    "target": "Rony Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Gringotes",
+    "target": "Rony Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Dino",
+    "target": "Rony Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Parvati",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Marcos Flint",
+    "weight": 2
+  },
+  {
+    "source": "Lino Jordan",
+    "target": "Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Nicolau Flamel",
+    "weight": 2
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Nicolau Flamel",
+    "weight": 2
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Hermione Granger",
+    "weight": 2
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Crabbe",
+    "target": "Neville Longbottom",
+    "weight": 2
+  },
+  {
+    "source": "Goyle",
+    "target": "Neville Longbottom",
+    "weight": 2
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Madame Pomfrey",
+    "weight": 2
+  },
+  {
+    "source": "Fofo",
+    "target": "Quirrell",
+    "weight": 2
+  },
+  {
+    "source": "Herbologia",
+    "target": "Rony Weasley",
+    "weight": 2
+  },
+  {
+    "source": "Herbologia",
+    "target": "Hermione Granger",
+    "weight": 2
+  },
+  {
+    "source": "Canino",
+    "target": "Rúbeo Hagrid",
+    "weight": 2
+  },
+  {
+    "source": "Canino",
+    "target": "Hermione Granger",
+    "weight": 2
+  },
+  {
+    "source": "Fofo",
+    "target": "Severo Snape",
+    "weight": 2
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Edwiges",
+    "weight": 2
+  },
+  {
+    "source": "Direitos Autorais ©",
+    "target": "J.K. Rowling",
+    "weight": 1
+  },
+  {
+    "source": "Baixelivros.org",
+    "target": "J.K. Rowling",
+    "weight": 1
+  },
+  {
+    "source": "Anne",
+    "target": "Di",
+    "weight": 1
+  },
+  {
+    "source": "Hum",
+    "target": "Petúnia Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Hum",
+    "target": "Pigarreou",
+    "weight": 1
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "Pigarreou",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr. Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Ernesto",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Imaginei",
+    "target": "Profa",
+    "weight": 1
+  },
+  {
+    "source": "Godric",
+    "target": "Voldemort",
+    "weight": 1
+  },
+  {
+    "source": "Lílian",
+    "target": "Tiago...",
+    "weight": 1
+  },
+  {
+    "source": "Deus",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Vim",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "casa dos Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "casa dos Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Psiu",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Tiago",
+    "weight": 1
+  },
+  {
+    "source": "Enxugando",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Néris",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Seu\nPatinhas",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Tobias",
+    "weight": 1
+  },
+  {
+    "source": "Néris",
+    "target": "Seu\nPatinhas",
+    "weight": 1
+  },
+  {
+    "source": "Néris",
+    "target": "Tobias",
+    "weight": 1
+  },
+  {
+    "source": "Seu\nPatinhas",
+    "target": "Tobias",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Pedro Polkiss",
+    "weight": 1
+  },
+  {
+    "source": "Pedro Polkiss",
+    "target": "Petúnia Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Meia",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Meia",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "macacão",
+    "weight": 1
+  },
+  {
+    "source": "Devagarinho",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Cai",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Apanhado",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "cartola",
+    "weight": 1
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "cartola",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Dênis",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Górdon",
+    "weight": 1
+  },
+  {
+    "source": "Dênis",
+    "target": "Górdon",
+    "weight": 1
+  },
+  {
+    "source": "Apanhe",
+    "target": "Dudley Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Apanhe",
+    "target": "Vernon Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Apanhe",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Cutuque",
+    "target": "Dudley Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Pai",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Saiam",
+    "weight": 1
+  },
+  {
+    "source": "Saiam",
+    "target": "Vernon Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Railview Hotel\nCokeworth",
+    "weight": 1
+  },
+  {
+    "source": "Railview Hotel\nCokeworth",
+    "target": "Vernon Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Guardião das Chaves",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Prezado Sr.",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "V. Sa",
+    "weight": 1
+  },
+  {
+    "source": "Prezado Sr.",
+    "target": "V. Sa",
+    "weight": 1
+  },
+  {
+    "source": "Entreguei",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Petúnia Dursley",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Dê",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Voando",
+    "weight": 1
+  },
+  {
+    "source": "Diário",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Diário",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Cornélio Fudge",
+    "weight": 1
+  },
+  {
+    "source": "Bagshot\nTeoria da magia",
+    "target": "Emerico Switch",
+    "weight": 1
+  },
+  {
+    "source": "Arsênio Jigger\nAnimais",
+    "target": "Newton Scamander",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Tom",
+    "weight": 1
+  },
+  {
+    "source": "Dóris Crockford",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "c-c-conhecê-lo",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "c-c-conhecê-lo",
+    "weight": 1
+  },
+  {
+    "source": "Crockford",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Viemos",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Quantas",
+    "weight": 1
+  },
+  {
+    "source": "Madame Malkin",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame\nMalkin",
+    "weight": 1
+  },
+  {
+    "source": "Madame\nMalkin",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Aposto",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Borrões",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Hum",
+    "target": "Sr. Olivaras",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Olivaras",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sr.\nOlivaras",
+    "weight": 1
+  },
+  {
+    "source": "Freguês",
+    "target": "hein",
+    "weight": 1
+  },
+  {
+    "source": "Pagou",
+    "target": "Sr. Olivaras",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Paddington",
+    "weight": 1
+  },
+  {
+    "source": "Paddington",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Sr. Olivaras",
+    "weight": 1
+  },
+  {
+    "source": "Decidira",
+    "target": "Edwiges",
+    "weight": 1
+  },
+  {
+    "source": "Edwiges",
+    "target": "Petúnia Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Ah",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "M.",
+    "weight": 1
+  },
+  {
+    "source": "Certo",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Carlinhos",
+    "target": "Gui",
+    "weight": 1
+  },
+  {
+    "source": "Dudley Dursley",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Agripa",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Agripa",
+    "target": "Ptolomeu",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Ptolomeu",
+    "weight": 1
+  },
+  {
+    "source": "Alberico Grunnion",
+    "target": "Alvo Dumbledore",
+    "weight": 1
+  },
+  {
+    "source": "Alberico Grunnion",
+    "target": "Circe",
+    "weight": 1
+  },
+  {
+    "source": "Alberico Grunnion",
+    "target": "Hengisto de Woodcroft",
+    "weight": 1
+  },
+  {
+    "source": "Alberico Grunnion",
+    "target": "Morgana",
+    "weight": 1
+  },
+  {
+    "source": "Alberico Grunnion",
+    "target": "Paracelso",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Circe",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Hengisto de Woodcroft",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Morgana",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Paracelso",
+    "weight": 1
+  },
+  {
+    "source": "Circe",
+    "target": "Hengisto de Woodcroft",
+    "weight": 1
+  },
+  {
+    "source": "Circe",
+    "target": "Morgana",
+    "weight": 1
+  },
+  {
+    "source": "Circe",
+    "target": "Paracelso",
+    "weight": 1
+  },
+  {
+    "source": "Hengisto de Woodcroft",
+    "target": "Morgana",
+    "weight": 1
+  },
+  {
+    "source": "Hengisto de Woodcroft",
+    "target": "Paracelso",
+    "weight": 1
+  },
+  {
+    "source": "Morgana",
+    "target": "Paracelso",
+    "weight": 1
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Sou",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Andei",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Verdade",
+    "weight": 1
+  },
+  {
+    "source": "Gringotes",
+    "target": "Papai",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sou",
+    "weight": 1
+  },
+  {
+    "source": "Goyle",
+    "target": "Perebas",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "hera",
+    "weight": 1
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Profa",
+    "target": "Voltarei",
+    "weight": 1
+  },
+  {
+    "source": "Ana",
+    "target": "Teorêncio",
+    "weight": 1
+  },
+  {
+    "source": "Ana",
+    "target": "Terêncio Boot",
+    "weight": 1
+  },
+  {
+    "source": "Teorêncio",
+    "target": "Terêncio Boot",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Lilá Brown",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mádi Brocklehurst",
+    "weight": 1
+  },
+  {
+    "source": "Lilá Brown",
+    "target": "Mádi Brocklehurst",
+    "weight": 1
+  },
+  {
+    "source": "Lilá Brown",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Mádi Brocklehurst",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Simas Finnigan",
+    "weight": 1
+  },
+  {
+    "source": "Moon",
+    "target": "Perks",
+    "weight": 1
+  },
+  {
+    "source": "Moon",
+    "target": "Sara",
+    "weight": 1
+  },
+  {
+    "source": "Perks",
+    "target": "Sara",
+    "weight": 1
+  },
+  {
+    "source": "Percy Weasley",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Alvo",
+    "target": "Alvo Dumbledore",
+    "weight": 1
+  },
+  {
+    "source": "Lisa Turpin",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Blás Zabini",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Blás Zabini",
+    "target": "Percy Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Chapéu Seletor",
+    "target": "Minerva McGonagall",
+    "weight": 1
+  },
+  {
+    "source": "Nicholas de Mimsy",
+    "target": "Simas Finnigan",
+    "weight": 1
+  },
+  {
+    "source": "Enid",
+    "target": "tio Algi",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Percy Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mesa Principal",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Percy Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Argo",
+    "target": "Argus Filch",
+    "weight": 1
+  },
+  {
+    "source": "Argo",
+    "target": "Pior",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Pior",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mágica",
+    "weight": 1
+  },
+  {
+    "source": "Binns",
+    "target": "Emerico",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Simas Finnigan",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Prezado",
+    "weight": 1
+  },
+  {
+    "source": "Edwiges",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Severo Snape",
+    "target": "casa dos Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Menino",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Levem-no",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Levem-no",
+    "target": "Simas",
+    "weight": 1
+  },
+  {
+    "source": "Severo Snape",
+    "target": "Simas",
+    "weight": 1
+  },
+  {
+    "source": "Ouvi",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Ânimo",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Carlinhos",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Dudley Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Típico",
+    "weight": 1
+  },
+  {
+    "source": "Dino Thomas",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Dino",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Madame Hooch",
+    "target": "Vamos",
+    "weight": 1
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Vamos",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Parvati Patil",
+    "weight": 1
+  },
+  {
+    "source": "Flitwick",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Mal",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Século",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Fred Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Fred Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Goyle",
+    "weight": 1
+  },
+  {
+    "source": "Goyle",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Jogue",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Aposto",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Madame\nNor-r-ra",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame\nNor-r-ra",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Mulher\nGorda",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Devia",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Flitwick",
+    "weight": 1
+  },
+  {
+    "source": "Flitwick",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Certo",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Flitwick",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Simas Finnigan",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Lilá",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Parvati",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Lilá",
+    "weight": 1
+  },
+  {
+    "source": "Lilá",
+    "target": "Parvati",
+    "weight": 1
+  },
+  {
+    "source": "Lilá",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Parvati",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Acabei",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Percy Weasley",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "meias velhas",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "barão Sangrento",
+    "weight": 1
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "barão Sangrento",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Minerva McGonagall",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Srta",
+    "weight": 1
+  },
+  {
+    "source": "Grifinória",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Grifinória",
+    "target": "Profa",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Profa",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Simas",
+    "weight": 1
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Simas",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Perebas",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Sonserina",
+    "weight": 1
+  },
+  {
+    "source": "Marcos Flint",
+    "target": "Sonserina",
+    "weight": 1
+  },
+  {
+    "source": "Alícia Spinnet",
+    "target": "Johnson",
+    "weight": 1
+  },
+  {
+    "source": "Alícia Spinnet",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Alícia Spinnet",
+    "target": "Sonserina",
+    "weight": 1
+  },
+  {
+    "source": "Johnson",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Johnson",
+    "target": "Sonserina",
+    "weight": 1
+  },
+  {
+    "source": "Olívio Wood",
+    "target": "Sonserina",
+    "weight": 1
+  },
+  {
+    "source": "Katie Bell de Grifinória",
+    "target": "Olívio Wood",
+    "weight": 1
+  },
+  {
+    "source": "Adriano Pucey",
+    "target": "Bletchley",
+    "weight": 1
+  },
+  {
+    "source": "Adriano Pucey",
+    "target": "Fred Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Adriano Pucey",
+    "target": "Johnson",
+    "weight": 1
+  },
+  {
+    "source": "Adriano Pucey",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Bletchley",
+    "target": "Fred Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Bletchley",
+    "target": "Johnson",
+    "weight": 1
+  },
+  {
+    "source": "Bletchley",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Johnson",
+    "weight": 1
+  },
+  {
+    "source": "Johnson",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Angelina",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Bell",
+    "target": "Pucey",
+    "weight": 1
+  },
+  {
+    "source": "Bell",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Pucey",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Terêncio",
+    "weight": 1
+  },
+  {
+    "source": "Dino",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Deviam",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Bell",
+    "target": "Spinnet",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Lino Jordan",
+    "weight": 1
+  },
+  {
+    "source": "Descobri",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Seja",
+    "weight": 1
+  },
+  {
+    "source": "Seja",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Nicolau Flamel",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Nicolau Flamel",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Seção Reservada",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Madame Pince",
+    "weight": 1
+  },
+  {
+    "source": "Madame Pince",
+    "target": "Nicolau Flamel",
+    "weight": 1
+  },
+  {
+    "source": "Madame Pince",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "linha grossa verde-clara",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "J.",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "J.",
+    "weight": 1
+  },
+  {
+    "source": "J.",
+    "target": "Jorge Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Forge",
+    "target": "Jred",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Percy Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "monitor",
+    "weight": 1
+  },
+  {
+    "source": "Jorge Weasley",
+    "target": "Percy Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Jorge Weasley",
+    "target": "monitor",
+    "weight": 1
+  },
+  {
+    "source": "Madame",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Madame",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Sim",
+    "weight": 1
+  },
+  {
+    "source": "Prof",
+    "target": "Senhor",
+    "weight": 1
+  },
+  {
+    "source": "Olívio Wood",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Falando",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Falando",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Finja",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Nicolau Flamel",
+    "target": "Perenelle",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Aposto",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Gringotes",
+    "weight": 1
+  },
+  {
+    "source": "Aposto",
+    "target": "Gringotes",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mal",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Mal",
+    "weight": 1
+  },
+  {
+    "source": "Mal",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Locomotor Mortis",
+    "weight": 1
+  },
+  {
+    "source": "Lufa-Lufa",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Dracos",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Dracos",
+    "weight": 1
+  },
+  {
+    "source": "Dracos",
+    "target": "Goyle",
+    "weight": 1
+  },
+  {
+    "source": "Dracos",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Vamos",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Goyle",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Goyle",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Rúbeo Hagrid",
+    "target": "Severo",
+    "weight": 1
+  },
+  {
+    "source": "Crabbe",
+    "target": "Madame Pomfrey",
+    "weight": 1
+  },
+  {
+    "source": "Goyle",
+    "target": "Madame Pomfrey",
+    "weight": 1
+  },
+  {
+    "source": "Madame Pomfrey",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Deixem",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Imagino",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Imagino",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Nicolau",
+    "target": "Nicolau Flamel",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Vemos",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Queríamos",
+    "weight": 1
+  },
+  {
+    "source": "Edwiges",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Herbologia",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Decidi",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Draco Malfoy",
+    "weight": 1
+  },
+  {
+    "source": "Carlinhos",
+    "target": "Draco Malfoy",
+    "weight": 1
+  },
+  {
+    "source": "Madame Pomfrey",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Norberto",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Minerva McGonagall",
+    "weight": 1
+  },
+  {
+    "source": "Draco Malfoy",
+    "target": "Rindo de",
+    "weight": 1
+  },
+  {
+    "source": "Minerva McGonagall",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Draco Malfoy",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "Sigam-me",
+    "weight": 1
+  },
+  {
+    "source": "Argus Filch",
+    "target": "lanterna",
+    "weight": 1
+  },
+  {
+    "source": "Cautela",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Agouro",
+    "target": "Olá",
+    "weight": 1
+  },
+  {
+    "source": "Agouro",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Olá",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Acabavam",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Acabavam",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mirou",
+    "weight": 1
+  },
+  {
+    "source": "Agouro",
+    "target": "Tomei",
+    "weight": 1
+  },
+  {
+    "source": "Firenze",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Firenze",
+    "target": "Voldemort",
+    "weight": 1
+  },
+  {
+    "source": "Binns",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Fofo",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Fofo",
+    "target": "Voldemort",
+    "weight": 1
+  },
+  {
+    "source": "Agouro",
+    "target": "Firenze",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Olhe",
+    "weight": 1
+  },
+  {
+    "source": "Rony Weasley",
+    "target": "Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mulher Gorda",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Mulher Gorda",
+    "weight": 1
+  },
+  {
+    "source": "Mulher Gorda",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Lino Jordan",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Neville Longbottom",
+    "target": "Trevo",
+    "weight": 1
+  },
+  {
+    "source": "Madame",
+    "target": "lanterna",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Pirraça",
+    "weight": 1
+  },
+  {
+    "source": "Barão",
+    "target": "Espero",
+    "weight": 1
+  },
+  {
+    "source": "Genial",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Fofo",
+    "target": "Hermione Granger",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Certo",
+    "weight": 1
+  },
+  {
+    "source": "Certo",
+    "target": "Edwiges",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Herbologia",
+    "weight": 1
+  },
+  {
+    "source": "Dou",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Trêmulo",
+    "weight": 1
+  },
+  {
+    "source": "Severo",
+    "target": "Severo Snape",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Sei",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Vem",
+    "weight": 1
+  },
+  {
+    "source": "Quirrell",
+    "target": "Saia",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Mestre",
+    "weight": 1
+  },
+  {
+    "source": "Mestre",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Mestre",
+    "target": "Voldemort",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Madame Pomfrey",
+    "weight": 1
+  },
+  {
+    "source": "Aquilo",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Sr. Ronald Weasley",
+    "target": "Srta",
+    "weight": 1
+  },
+  {
+    "source": "Nicolau",
+    "target": "Perenelle",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Voldemort",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Quirrell",
+    "weight": 1
+  },
+  {
+    "source": "Alvo Dumbledore",
+    "target": "Fiz",
+    "weight": 1
+  },
+  {
+    "source": "Fiz",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Fiz",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Herbologia",
+    "target": "Neville Longbottom",
+    "weight": 1
+  },
+  {
+    "source": "Fred Weasley",
+    "target": "Rúbeo Hagrid",
+    "weight": 1
+  },
+  {
+    "source": "Gina Weasley",
+    "target": "Rony Weasley",
+    "weight": 1
+  },
+  {
+    "source": "Hermione Granger",
+    "target": "Vernon Dursley",
+    "weight": 1
+  },
+  {
+    "source": "Azkaban",
+    "target": "Harry Potter",
+    "weight": 1
+  },
+  {
+    "source": "Azkaban",
+    "target": "Livros da Biblioteca de Hogwarts",
+    "weight": 1
+  },
+  {
+    "source": "Azkaban",
+    "target": "Ordem da Fênix",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Livros da Biblioteca de Hogwarts",
+    "weight": 1
+  },
+  {
+    "source": "Harry Potter",
+    "target": "Ordem da Fênix",
+    "weight": 1
+  },
+  {
+    "source": "Livros da Biblioteca de Hogwarts",
+    "target": "Ordem da Fênix",
+    "weight": 1
+  },
+  {
+    "source": "Explore",
+    "target": "Harry Potter",
+    "weight": 1
+  }
+]

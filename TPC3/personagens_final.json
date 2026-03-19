@@ -1,0 +1,1558 @@
+[
+  {
+    "personagem": "Harry Potter",
+    "frequencia": 1339
+  },
+  {
+    "personagem": "Rony Weasley",
+    "frequencia": 401
+  },
+  {
+    "personagem": "Rúbeo Hagrid",
+    "frequencia": 304
+  },
+  {
+    "personagem": "Hermione Granger",
+    "frequencia": 266
+  },
+  {
+    "personagem": "Severo Snape",
+    "frequencia": 162
+  },
+  {
+    "personagem": "Alvo Dumbledore",
+    "frequencia": 152
+  },
+  {
+    "personagem": "Dudley Dursley",
+    "frequencia": 128
+  },
+  {
+    "personagem": "Draco Malfoy",
+    "frequencia": 121
+  },
+  {
+    "personagem": "Neville Longbottom",
+    "frequencia": 117
+  },
+  {
+    "personagem": "Vernon Dursley",
+    "frequencia": 114
+  },
+  {
+    "personagem": "Quirrell",
+    "frequencia": 107
+  },
+  {
+    "personagem": "Minerva McGonagall",
+    "frequencia": 87
+  },
+  {
+    "personagem": "Petúnia Dursley",
+    "frequencia": 55
+  },
+  {
+    "personagem": "Argus Filch",
+    "frequencia": 53
+  },
+  {
+    "personagem": "Olívio Wood",
+    "frequencia": 50
+  },
+  {
+    "personagem": "Percy Weasley",
+    "frequencia": 39
+  },
+  {
+    "personagem": "Voldemort",
+    "frequencia": 36
+  },
+  {
+    "personagem": "Fred Weasley",
+    "frequencia": 33
+  },
+  {
+    "personagem": "Jorge Weasley",
+    "frequencia": 31
+  },
+  {
+    "personagem": "Nicolau Flamel",
+    "frequencia": 27
+  },
+  {
+    "personagem": "Sr. Dursley",
+    "frequencia": 26
+  },
+  {
+    "personagem": "Gringotes",
+    "frequencia": 26
+  },
+  {
+    "personagem": "Goyle",
+    "frequencia": 22
+  },
+  {
+    "personagem": "Weasley",
+    "frequencia": 22
+  },
+  {
+    "personagem": "Crabbe",
+    "frequencia": 20
+  },
+  {
+    "personagem": "Profa",
+    "frequencia": 14
+  },
+  {
+    "personagem": "Sr. Olivaras",
+    "frequencia": 14
+  },
+  {
+    "personagem": "Firenze",
+    "frequencia": 14
+  },
+  {
+    "personagem": "Madame Pomfrey",
+    "frequencia": 12
+  },
+  {
+    "personagem": "Carlinhos",
+    "frequencia": 12
+  },
+  {
+    "personagem": "Sei",
+    "frequencia": 11
+  },
+  {
+    "personagem": "Madame",
+    "frequencia": 11
+  },
+  {
+    "personagem": "Edwiges",
+    "frequencia": 11
+  },
+  {
+    "personagem": "Simas",
+    "frequencia": 11
+  },
+  {
+    "personagem": "Madame Hooch",
+    "frequencia": 10
+  },
+  {
+    "personagem": "Flitwick",
+    "frequencia": 9
+  },
+  {
+    "personagem": "hein",
+    "frequencia": 8
+  },
+  {
+    "personagem": "Certo",
+    "frequencia": 8
+  },
+  {
+    "personagem": "Lino Jordan",
+    "frequencia": 8
+  },
+  {
+    "personagem": "Hum",
+    "frequencia": 7
+  },
+  {
+    "personagem": "Perebas",
+    "frequencia": 7
+  },
+  {
+    "personagem": "Simas Finnigan",
+    "frequencia": 7
+  },
+  {
+    "personagem": "Aposto",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Sim",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Sabe",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Pirraça",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Canino",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Fofo",
+    "frequencia": 6
+  },
+  {
+    "personagem": "Sr. H.",
+    "frequencia": 5
+  },
+  {
+    "personagem": "Mamãe",
+    "frequencia": 5
+  },
+  {
+    "personagem": "Espero",
+    "frequencia": 5
+  },
+  {
+    "personagem": "Vamos",
+    "frequencia": 5
+  },
+  {
+    "personagem": "turma de",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Apanhe",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Papai",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Bum",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Tom",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Madame Malkin",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Olivaras",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Gina",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Mulher Gorda",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Marcos Flint",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Sonserina",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Olhe",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Severo",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Nicolau",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Herbologia",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Agouro",
+    "frequencia": 4
+  },
+  {
+    "personagem": "Lílian",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Deus",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Trouxe",
+    "frequencia": 3
+  },
+  {
+    "personagem": "casa dos Dursley",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Mal",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Prof",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Olá",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Ouvi",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Sou",
+    "frequencia": 3
+  },
+  {
+    "personagem": "monitor",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Agripa",
+    "frequencia": 3
+  },
+  {
+    "personagem": "barão Sangrento",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Binns",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Dino",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Deixem",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Parvati",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Srta",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Grifinória",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Madame Pince",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Imagino",
+    "frequencia": 3
+  },
+  {
+    "personagem": "Ronan",
+    "frequencia": 3
+  },
+  {
+    "personagem": "J.K. Rowling",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Sr.\nDursley",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Ernesto",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Eduardo",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Alvo",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Trinta",
+    "frequencia": 2
+  },
+  {
+    "personagem": "cartola",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Pai",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Saiam",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Cadê",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Tia",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Pior",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Dê",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Dóris Crockford",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Entrem",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Madame\nMalkin",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Acha",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Lino",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Tenho",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Verdade",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Gorducho",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Chapéu Seletor",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Ana",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Mesa Principal",
+    "frequencia": 2
+  },
+  {
+    "personagem": "tio Algi",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Faça",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Tinham",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Dino Thomas",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Madame Nor-r-ra",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Devia",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Estavam",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Acabei",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Granger",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Angelina Johnson",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Johnson",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Adriano Pucey",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Bell",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Spinnet",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Apanhei",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Coma",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Perenelle",
+    "frequencia": 2
+  },
+  {
+    "personagem": "lanterna",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Aquilo",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Trevo",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Vem",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Genial",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Mestre",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Acredito",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Sr. Ronald Weasley",
+    "frequencia": 2
+  },
+  {
+    "personagem": "Biz",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Lia Wyler",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pottermore Limited",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Editora Rocco Ltda",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Direitos Autorais ©",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mary GrandPré ©",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Baixelivros.org",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Anne",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Di",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Esquecera",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Gente",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pigarreou",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Imaginei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Aceita",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Godric",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tiago...",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vim",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sirius",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ficará",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Psiu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tiago",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Enxugando",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Acorde",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Penteie",
+    "frequencia": 1
+  },
+  {
+    "personagem": "tia Guida",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Néris",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Seu\nPatinhas",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tobias",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ivone",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Dudinha",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pedro Polkiss",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Meia",
+    "frequencia": 1
+  },
+  {
+    "personagem": "macacão",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Devagarinho",
+    "frequencia": 1
+  },
+  {
+    "personagem": "VENHAM VER",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Cai",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Apanhado",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Dênis",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Górdon",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Cutuque",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Little Whinging\nSurrey",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Comeu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Queimei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Berrara",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ponham",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Railview Hotel\nCokeworth",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Segunda-feira",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Aquelas",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Silêncio",
+    "frequencia": 1
+  },
+  {
+    "personagem": "glacê verde",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Guardião das Chaves",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Escondeu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Prezado Sr.",
+    "frequencia": 1
+  },
+  {
+    "personagem": "V. Sa",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Entreguei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "“Ora",
+    "frequencia": 1
+  },
+  {
+    "personagem": "McKinnon",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sumiu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Alvo Dumbled",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Rúbeo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Duendes",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Voando",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Diário",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Cornélio Fudge",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Maneiro",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Bagshot\nTeoria da magia",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Emerico Switch",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Arsênio Jigger\nAnimais",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Newton Scamander",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Quintino Trimble",
+    "frequencia": 1
+  },
+  {
+    "personagem": "c-c-conhecê-lo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Crockford",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Falei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Feiticeiras",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Viemos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Quantas",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Borrões",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vindicto Viridiano",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Carvalho",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Boa",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sr.\nOlivaras",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Bordo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Freguês",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Puxa",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pagou",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Paddington",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tivera",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Decidira",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Resmungo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vó",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ah",
+    "frequencia": 1
+  },
+  {
+    "personagem": "M.",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Roniquinho",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Perguntei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Coitadinho",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Gui",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ptolomeu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Alberico Grunnion",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Circe",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Hengisto de Woodcroft",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Morgana",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Paracelso",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Desculpem",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vai",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tentei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sol",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Andei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Feitiço",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Aooooooh",
+    "frequencia": 1
+  },
+  {
+    "personagem": "hera",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Voltarei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Perdoar",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pacientes",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Homens",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ana Abbott!",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Teorêncio",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Terêncio Boot",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Lilá Brown",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mádi Brocklehurst",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mila Bulstrode",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Justino Finch-Fletchley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Moon",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Perks",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sara",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Difícil",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Lisa Turpin",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Blás Zabini",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pateta",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Chorão",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Cavalheiro Nicholas de Mimsy-\nPorpington",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Nicholas de Mimsy",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sir Nicholas",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Algi",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Enid",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Hoggy Warty Hogwarts",
+    "frequencia": 1
+  },
+  {
+    "personagem": "barão Sangrento?",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Oooooooooh",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Calourinhos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Argo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mágica",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Emerico",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Prezado",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Menino",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Levem-no",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ânimo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Típico",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vovó",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mantenham",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pulso",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Parvati Patil",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pansy Parkinson",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sr. Weasley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Carlinhos Weasley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Século",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Jogue",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Madame\nNor-r-ra",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mulher\nGorda",
+    "frequencia": 1
+  },
+  {
+    "personagem": "barão",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Subiram",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tsc",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Peça",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Retrocederam",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Comet",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Aerodinâmica",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Segure",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Lilá",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Abram",
+    "frequencia": 1
+  },
+  {
+    "personagem": "meias velhas",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Granger!",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Saí",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Bateu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Salão Principal",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Montem",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Alícia Spinnet",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Katie Bell de Grifinória",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Bletchley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Angelina",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pucey",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Correu",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Terêncio Higgs",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Terêncio",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Deviam",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Jordan",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Marcos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Descobri",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Seja",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Nomes",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Seção Reservada",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Recebemos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "linha grossa verde-clara",
+    "frequencia": 1
+  },
+  {
+    "personagem": "J.",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Forge",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Jred",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Oãça",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Respirando",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ronald Weasley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Senhor",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Falando",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Finja",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Li-o",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Distrair",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Locomotor Mortis",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Lufa-Lufa",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Dracos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Agarrara",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Vemos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Acham",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Queríamos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Aquela Pedra",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Fico",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Solte",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Decidi",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Teremos",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Norberto",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Rindo de",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sigam-me",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Venham",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Apareça",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Cautela",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Boa-noite",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Acabavam",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Fiquem",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mirou",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Tomei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Continuava",
+    "frequencia": 1
+  },
+  {
+    "personagem": "sabe Agouro",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ambicioso",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sr. Barão",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Perdoe",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Barão",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Pam",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Gosta",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Diga",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Dou",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Trêmulo",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ali",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Saia",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Diga-me",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Matei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "MATE-O",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Absolutamente",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Fiz",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Mandei",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Preciso",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Gina Weasley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Sra.\nWeasley",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ande",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Azkaban",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Livros da Biblioteca de Hogwarts",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Ordem da Fênix",
+    "frequencia": 1
+  },
+  {
+    "personagem": "Explore",
+    "frequencia": 1
+  }
+]

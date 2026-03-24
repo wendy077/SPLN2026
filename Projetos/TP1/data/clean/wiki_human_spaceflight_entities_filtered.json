@@ -1,0 +1,342 @@
+{
+  "LOC": [
+    {
+      "text": "Earth",
+      "count": 30
+    },
+    {
+      "text": "Mars",
+      "count": 7
+    },
+    {
+      "text": "Inner Mongolia",
+      "count": 1
+    },
+    {
+      "text": "Kármán",
+      "count": 1
+    },
+    {
+      "text": "LEO",
+      "count": 1
+    },
+    {
+      "text": "Mainland China",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    }
+  ],
+  "PERSON": [
+    {
+      "text": "Alan Shepard",
+      "count": 2
+    },
+    {
+      "text": "Fred Haise",
+      "count": 2
+    },
+    {
+      "text": "Gagarin",
+      "count": 2
+    },
+    {
+      "text": "Jack Swigert",
+      "count": 2
+    },
+    {
+      "text": "James Lovell",
+      "count": 2
+    },
+    {
+      "text": "Neil Armstrong",
+      "count": 2
+    },
+    {
+      "text": "Nixon",
+      "count": 2
+    },
+    {
+      "text": "Sally Ride",
+      "count": 2
+    },
+    {
+      "text": "Salyut",
+      "count": 2
+    },
+    {
+      "text": "Starship",
+      "count": 2
+    },
+    {
+      "text": "Valentina Tereshkova",
+      "count": 2
+    },
+    {
+      "text": "Voskhod",
+      "count": 2
+    },
+    {
+      "text": "Yang Liwei",
+      "count": 2
+    },
+    {
+      "text": "Yuri Gagarin",
+      "count": 2
+    },
+    {
+      "text": "Alexei Leonov",
+      "count": 1
+    }
+  ],
+  "GPE": [
+    {
+      "text": "China",
+      "count": 15
+    },
+    {
+      "text": "US",
+      "count": 15
+    },
+    {
+      "text": "USSR",
+      "count": 9
+    },
+    {
+      "text": "the Soviet Union",
+      "count": 6
+    },
+    {
+      "text": "Russia",
+      "count": 5
+    },
+    {
+      "text": "the United States",
+      "count": 4
+    },
+    {
+      "text": "United States",
+      "count": 3
+    },
+    {
+      "text": "India",
+      "count": 2
+    },
+    {
+      "text": "Japan",
+      "count": 2
+    },
+    {
+      "text": "U.S.",
+      "count": 2
+    },
+    {
+      "text": "Apollo",
+      "count": 1
+    },
+    {
+      "text": "Copenhagen Suborbitals",
+      "count": 1
+    },
+    {
+      "text": "Gaganyaan",
+      "count": 1
+    },
+    {
+      "text": "Iran",
+      "count": 1
+    },
+    {
+      "text": "Iraq",
+      "count": 1
+    }
+  ],
+  "PRODUCT": [
+    {
+      "text": "Soyuz",
+      "count": 8
+    },
+    {
+      "text": "Shuttle",
+      "count": 6
+    },
+    {
+      "text": "Space Shuttle",
+      "count": 4
+    },
+    {
+      "text": "Starliner",
+      "count": 3
+    },
+    {
+      "text": "Vostok",
+      "count": 3
+    },
+    {
+      "text": "Constellation",
+      "count": 2
+    },
+    {
+      "text": "Orion",
+      "count": 2
+    },
+    {
+      "text": "Saturn",
+      "count": 2
+    },
+    {
+      "text": "Artemis II",
+      "count": 1
+    },
+    {
+      "text": "Atlantis",
+      "count": 1
+    },
+    {
+      "text": "Challenger",
+      "count": 1
+    },
+    {
+      "text": "Crew Dragon",
+      "count": 1
+    },
+    {
+      "text": "Discovery",
+      "count": 1
+    },
+    {
+      "text": "Dragon 2",
+      "count": 1
+    },
+    {
+      "text": "Soyuz 1",
+      "count": 1
+    }
+  ],
+  "DATE": [
+    {
+      "text": "1965",
+      "count": 3
+    },
+    {
+      "text": "1973",
+      "count": 3
+    },
+    {
+      "text": "2011",
+      "count": 3
+    },
+    {
+      "text": "12 April 1961",
+      "count": 2
+    },
+    {
+      "text": "15 October 2003",
+      "count": 2
+    },
+    {
+      "text": "1963",
+      "count": 2
+    },
+    {
+      "text": "1964",
+      "count": 2
+    },
+    {
+      "text": "1969",
+      "count": 2
+    },
+    {
+      "text": "1975",
+      "count": 2
+    },
+    {
+      "text": "1981",
+      "count": 2
+    },
+    {
+      "text": "1983",
+      "count": 2
+    },
+    {
+      "text": "1991",
+      "count": 2
+    },
+    {
+      "text": "1992",
+      "count": 2
+    },
+    {
+      "text": "1993",
+      "count": 2
+    },
+    {
+      "text": "1998",
+      "count": 2
+    }
+  ],
+  "ORG": [
+    {
+      "text": "Apollo",
+      "count": 20
+    },
+    {
+      "text": "NASA",
+      "count": 17
+    },
+    {
+      "text": "SpaceX",
+      "count": 8
+    },
+    {
+      "text": "Gemini",
+      "count": 6
+    },
+    {
+      "text": "ISS",
+      "count": 6
+    },
+    {
+      "text": "CMS",
+      "count": 5
+    },
+    {
+      "text": "Blue Origin",
+      "count": 4
+    },
+    {
+      "text": "Boeing",
+      "count": 4
+    },
+    {
+      "text": "Tiangong 2",
+      "count": 4
+    },
+    {
+      "text": "Virgin Galactic",
+      "count": 4
+    },
+    {
+      "text": "Artemis",
+      "count": 3
+    },
+    {
+      "text": "Mercury",
+      "count": 3
+    },
+    {
+      "text": "Commercial Crew Development",
+      "count": 2
+    },
+    {
+      "text": "Project Mercury",
+      "count": 2
+    },
+    {
+      "text": "Shenzhou",
+      "count": 2
+    }
+  ]
+}

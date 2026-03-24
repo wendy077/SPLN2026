@@ -1,0 +1,230 @@
+{
+  "DATE": [
+    {
+      "text": "50 years",
+      "count": 2
+    },
+    {
+      "text": "June 2022",
+      "count": 2
+    },
+    {
+      "text": "the beginning of this decade",
+      "count": 2
+    },
+    {
+      "text": "16 February",
+      "count": 1
+    },
+    {
+      "text": "16 February 2022",
+      "count": 1
+    },
+    {
+      "text": "2012",
+      "count": 1
+    },
+    {
+      "text": "2014",
+      "count": 1
+    },
+    {
+      "text": "2016",
+      "count": 1
+    },
+    {
+      "text": "2019",
+      "count": 1
+    },
+    {
+      "text": "2020-2030",
+      "count": 1
+    },
+    {
+      "text": "2021",
+      "count": 1
+    },
+    {
+      "text": "2022",
+      "count": 1
+    },
+    {
+      "text": "2025-2030",
+      "count": 1
+    },
+    {
+      "text": "2030s",
+      "count": 1
+    },
+    {
+      "text": "2040",
+      "count": 1
+    }
+  ],
+  "GPE": [
+    {
+      "text": "Europe",
+      "count": 50
+    },
+    {
+      "text": "US",
+      "count": 5
+    },
+    {
+      "text": "China",
+      "count": 3
+    },
+    {
+      "text": "Toulouse",
+      "count": 2
+    },
+    {
+      "text": "France",
+      "count": 1
+    },
+    {
+      "text": "SRL",
+      "count": 1
+    }
+  ],
+  "LOC": [
+    {
+      "text": "Mars",
+      "count": 49
+    },
+    {
+      "text": "LEO",
+      "count": 10
+    },
+    {
+      "text": "Earth",
+      "count": 5
+    },
+    {
+      "text": "Solar System",
+      "count": 2
+    },
+    {
+      "text": "the Moon surface",
+      "count": 2
+    },
+    {
+      "text": "Earth Thematic",
+      "count": 1
+    },
+    {
+      "text": "Gateway",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    },
+    {
+      "text": "Moon and Mars The",
+      "count": 1
+    },
+    {
+      "text": "the Moon (",
+      "count": 1
+    }
+  ],
+  "ORG": [
+    {
+      "text": "ESA",
+      "count": 27
+    },
+    {
+      "text": "Terrae Novae",
+      "count": 4
+    },
+    {
+      "text": "EDL",
+      "count": 3
+    },
+    {
+      "text": "Exploration Science Advisory Committee",
+      "count": 3
+    },
+    {
+      "text": "ISRU",
+      "count": 3
+    },
+    {
+      "text": "ISS",
+      "count": 3
+    },
+    {
+      "text": "post-ISS",
+      "count": 3
+    },
+    {
+      "text": "Advisory Group on Human Space Exploration",
+      "count": 2
+    },
+    {
+      "text": "ESA Council",
+      "count": 2
+    },
+    {
+      "text": "European Large Logistic Lander",
+      "count": 2
+    },
+    {
+      "text": "European Space Agency",
+      "count": 2
+    },
+    {
+      "text": "HESAC",
+      "count": 2
+    },
+    {
+      "text": "International Partners",
+      "count": 2
+    },
+    {
+      "text": "Artemis",
+      "count": 1
+    },
+    {
+      "text": "ATV",
+      "count": 1
+    }
+  ],
+  "PERSON": [
+    {
+      "text": "Josef Aschbacher",
+      "count": 2
+    },
+    {
+      "text": "Rosalind Franklin",
+      "count": 2
+    },
+    {
+      "text": "ryo",
+      "count": 1
+    }
+  ],
+  "PRODUCT": [
+    {
+      "text": "Agenda 20251",
+      "count": 1
+    },
+    {
+      "text": "Cupola",
+      "count": 1
+    },
+    {
+      "text": "Orion",
+      "count": 1
+    },
+    {
+      "text": "OS - Orbiting Sample",
+      "count": 1
+    },
+    {
+      "text": "Sample Fetch Rover",
+      "count": 1
+    }
+  ]
+}

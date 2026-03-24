@@ -1,0 +1,374 @@
+{
+  "DATE": [
+    {
+      "text": "1961",
+      "count": 3
+    },
+    {
+      "text": "1962",
+      "count": 3
+    },
+    {
+      "text": "1970",
+      "count": 3
+    },
+    {
+      "text": "1975",
+      "count": 3
+    },
+    {
+      "text": "1982",
+      "count": 3
+    },
+    {
+      "text": "2019",
+      "count": 3
+    },
+    {
+      "text": "2024",
+      "count": 3
+    },
+    {
+      "text": "2025",
+      "count": 3
+    },
+    {
+      "text": "1959",
+      "count": 2
+    },
+    {
+      "text": "1966",
+      "count": 2
+    },
+    {
+      "text": "1968",
+      "count": 2
+    },
+    {
+      "text": "1969",
+      "count": 2
+    },
+    {
+      "text": "1971",
+      "count": 2
+    },
+    {
+      "text": "1972",
+      "count": 2
+    },
+    {
+      "text": "1985",
+      "count": 2
+    }
+  ],
+  "ORG": [
+    {
+      "text": "NASA",
+      "count": 18
+    },
+    {
+      "text": "Apollo",
+      "count": 8
+    },
+    {
+      "text": "Mercury",
+      "count": 8
+    },
+    {
+      "text": "Mariner",
+      "count": 6
+    },
+    {
+      "text": "Artemis",
+      "count": 3
+    },
+    {
+      "text": "BepiColombo",
+      "count": 3
+    },
+    {
+      "text": "Itokawa",
+      "count": 3
+    },
+    {
+      "text": "Huygens",
+      "count": 2
+    },
+    {
+      "text": "ISS",
+      "count": 2
+    },
+    {
+      "text": "MESSENGER",
+      "count": 2
+    },
+    {
+      "text": "New Horizons",
+      "count": 2
+    },
+    {
+      "text": "Orion",
+      "count": 2
+    },
+    {
+      "text": "Pluto",
+      "count": 2
+    },
+    {
+      "text": "a Neptune Orbiter",
+      "count": 1
+    },
+    {
+      "text": "an Associated Press Poll",
+      "count": 1
+    }
+  ],
+  "LOC": [
+    {
+      "text": "Earth",
+      "count": 47
+    },
+    {
+      "text": "Mars",
+      "count": 27
+    },
+    {
+      "text": "Venus",
+      "count": 15
+    },
+    {
+      "text": "Jupiter",
+      "count": 11
+    },
+    {
+      "text": "Uranus",
+      "count": 6
+    },
+    {
+      "text": "Red Planet",
+      "count": 3
+    },
+    {
+      "text": "Solar System",
+      "count": 3
+    },
+    {
+      "text": "Europa",
+      "count": 1
+    },
+    {
+      "text": "Kuiper",
+      "count": 1
+    },
+    {
+      "text": "LEO",
+      "count": 1
+    },
+    {
+      "text": "lunar south",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    },
+    {
+      "text": "Phobos",
+      "count": 1
+    },
+    {
+      "text": "Reaching Jupiter",
+      "count": 1
+    },
+    {
+      "text": "the Lunar Gateway",
+      "count": 1
+    }
+  ],
+  "GPE": [
+    {
+      "text": "India",
+      "count": 8
+    },
+    {
+      "text": "the Soviet Union",
+      "count": 5
+    },
+    {
+      "text": "U.S.",
+      "count": 5
+    },
+    {
+      "text": "China",
+      "count": 3
+    },
+    {
+      "text": "Japan",
+      "count": 3
+    },
+    {
+      "text": "Russia",
+      "count": 2
+    },
+    {
+      "text": "the United States",
+      "count": 2
+    },
+    {
+      "text": "United States",
+      "count": 2
+    },
+    {
+      "text": "Ceres",
+      "count": 1
+    },
+    {
+      "text": "Europe",
+      "count": 1
+    },
+    {
+      "text": "Houston",
+      "count": 1
+    },
+    {
+      "text": "Netherlands",
+      "count": 1
+    },
+    {
+      "text": "Shepanek",
+      "count": 1
+    },
+    {
+      "text": "Shoemaker",
+      "count": 1
+    },
+    {
+      "text": "Texas",
+      "count": 1
+    }
+  ],
+  "PERSON": [
+    {
+      "text": "Alexei Leonov",
+      "count": 2
+    },
+    {
+      "text": "Sputnik 1",
+      "count": 2
+    },
+    {
+      "text": "Stephen Hawking",
+      "count": 2
+    },
+    {
+      "text": "Venera 9",
+      "count": 2
+    },
+    {
+      "text": "Yuri Gagarin",
+      "count": 2
+    },
+    {
+      "text": "Arrokoth",
+      "count": 1
+    },
+    {
+      "text": "Arthur C. Clarke",
+      "count": 1
+    },
+    {
+      "text": "Breakthrough Starshot",
+      "count": 1
+    },
+    {
+      "text": "Buzz Aldrin",
+      "count": 1
+    },
+    {
+      "text": "Charles R.",
+      "count": 1
+    },
+    {
+      "text": "Chris Hadfield's",
+      "count": 1
+    },
+    {
+      "text": "Christina Koch",
+      "count": 1
+    },
+    {
+      "text": "Dawn",
+      "count": 1
+    },
+    {
+      "text": "Fobos-Grunt",
+      "count": 1
+    },
+    {
+      "text": "Gagarin",
+      "count": 1
+    }
+  ],
+  "PRODUCT": [
+    {
+      "text": "Saturn",
+      "count": 9
+    },
+    {
+      "text": "Voyager 2",
+      "count": 9
+    },
+    {
+      "text": "Voyager 1",
+      "count": 4
+    },
+    {
+      "text": "Galileo",
+      "count": 3
+    },
+    {
+      "text": "Hayabusa",
+      "count": 3
+    },
+    {
+      "text": "Artemis II",
+      "count": 2
+    },
+    {
+      "text": "Cassini",
+      "count": 2
+    },
+    {
+      "text": "Spaceflight",
+      "count": 2
+    },
+    {
+      "text": "Titan",
+      "count": 2
+    },
+    {
+      "text": "9P/Tempel",
+      "count": 1
+    },
+    {
+      "text": "Alpha Centauri",
+      "count": 1
+    },
+    {
+      "text": "Artemis",
+      "count": 1
+    },
+    {
+      "text": "Artemis III",
+      "count": 1
+    },
+    {
+      "text": "Comet Churyumov",
+      "count": 1
+    },
+    {
+      "text": "Enceladus",
+      "count": 1
+    }
+  ]
+}

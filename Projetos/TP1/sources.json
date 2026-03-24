@@ -1,0 +1,25 @@
+[
+  {
+    "id": "wiki_space_exploration",
+    "tipo": "web",
+    "url": "https://en.wikipedia.org/wiki/Space_exploration",
+    "titulo": "Space Exploration",
+    "autor": "Wikipedia contributors"
+  },
+  {
+    "id": "wiki_human_spaceflight",
+    "tipo": "web",
+    "url": "https://en.wikipedia.org/wiki/Human_spaceflight",
+    "titulo": "Human Spaceflight",
+    "autor": "Wikipedia contributors"
+  },
+  {
+    "id": "esa_terrae_novae",
+    "tipo": "pdf",
+    "path": "data/raw/terrae_novae.pdf",
+    "url": "https://esamultimedia.esa.int/docs/HRE/TerraenovaeStrategyRoadmap.pdf",
+    "titulo": "Terrae Novae 2030+ Strategy Roadmap",
+    "autor": "ESA",
+    "ano": "2022"
+  }
+]

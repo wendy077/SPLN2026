@@ -1,0 +1,706 @@
+{
+  "DATE": [
+    {
+      "text": "decades",
+      "count": 3
+    },
+    {
+      "text": "50 years",
+      "count": 2
+    },
+    {
+      "text": "June 2022",
+      "count": 2
+    },
+    {
+      "text": "the beginning of this decade",
+      "count": 2
+    },
+    {
+      "text": "16 February",
+      "count": 1
+    },
+    {
+      "text": "16 February 2022",
+      "count": 1
+    },
+    {
+      "text": "2012",
+      "count": 1
+    },
+    {
+      "text": "2014",
+      "count": 1
+    },
+    {
+      "text": "2016",
+      "count": 1
+    },
+    {
+      "text": "2019",
+      "count": 1
+    },
+    {
+      "text": "2020-2030",
+      "count": 1
+    },
+    {
+      "text": "2021",
+      "count": 1
+    },
+    {
+      "text": "2022",
+      "count": 1
+    },
+    {
+      "text": "2025-2030",
+      "count": 1
+    },
+    {
+      "text": "2030s",
+      "count": 1
+    },
+    {
+      "text": "2040",
+      "count": 1
+    },
+    {
+      "text": "2040s",
+      "count": 1
+    },
+    {
+      "text": "April 2022",
+      "count": 1
+    },
+    {
+      "text": "November 2022",
+      "count": 1
+    },
+    {
+      "text": "only a few years",
+      "count": 1
+    },
+    {
+      "text": "several decades",
+      "count": 1
+    },
+    {
+      "text": "the 2020s",
+      "count": 1
+    },
+    {
+      "text": "the 2030s",
+      "count": 1
+    },
+    {
+      "text": "the coming years",
+      "count": 1
+    },
+    {
+      "text": "the early 2040s",
+      "count": 1
+    },
+    {
+      "text": "the end of the 2030s",
+      "count": 1
+    },
+    {
+      "text": "the end of the decade",
+      "count": 1
+    },
+    {
+      "text": "the end of the next decade",
+      "count": 1
+    },
+    {
+      "text": "the end of this decade",
+      "count": 1
+    },
+    {
+      "text": "the next decade",
+      "count": 1
+    },
+    {
+      "text": "the whole lifetime",
+      "count": 1
+    },
+    {
+      "text": "this decade",
+      "count": 1
+    },
+    {
+      "text": "today",
+      "count": 1
+    },
+    {
+      "text": "tomorrow",
+      "count": 1
+    }
+  ],
+  "LOC": [
+    {
+      "text": "Europe",
+      "count": 50
+    },
+    {
+      "text": "Mars",
+      "count": 49
+    },
+    {
+      "text": "Earth",
+      "count": 5
+    },
+    {
+      "text": "the Moon surface",
+      "count": 2
+    },
+    {
+      "text": "Earth Thematic",
+      "count": 1
+    },
+    {
+      "text": "Gateway",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    },
+    {
+      "text": "Moon and Mars The",
+      "count": 1
+    },
+    {
+      "text": "the Moon (",
+      "count": 1
+    }
+  ],
+  "ORG": [
+    {
+      "text": "ESA",
+      "count": 27
+    },
+    {
+      "text": "LEO",
+      "count": 10
+    },
+    {
+      "text": "Terrae Novae",
+      "count": 4
+    },
+    {
+      "text": "EDL",
+      "count": 3
+    },
+    {
+      "text": "Exploration Science Advisory Committee",
+      "count": 3
+    },
+    {
+      "text": "ISRU",
+      "count": 3
+    },
+    {
+      "text": "ISS",
+      "count": 3
+    },
+    {
+      "text": "LEO, Moon and Mars",
+      "count": 3
+    },
+    {
+      "text": "post-ISS",
+      "count": 3
+    },
+    {
+      "text": "Advisory Group on Human Space Exploration",
+      "count": 2
+    },
+    {
+      "text": "European Large Logistic Lander",
+      "count": 2
+    },
+    {
+      "text": "European Space Agency",
+      "count": 2
+    },
+    {
+      "text": "HESAC",
+      "count": 2
+    },
+    {
+      "text": "International Partners",
+      "count": 2
+    },
+    {
+      "text": "Solar",
+      "count": 2
+    },
+    {
+      "text": "the ESA Council",
+      "count": 2
+    },
+    {
+      "text": "the Solar System",
+      "count": 2
+    },
+    {
+      "text": "Artemis",
+      "count": 1
+    },
+    {
+      "text": "ATV",
+      "count": 1
+    },
+    {
+      "text": "Automated Transfer Vehicle",
+      "count": 1
+    },
+    {
+      "text": "Council",
+      "count": 1
+    },
+    {
+      "text": "E3P.",
+      "count": 1
+    },
+    {
+      "text": "ERO - Earth Return Orbiter",
+      "count": 1
+    },
+    {
+      "text": "ESM - European Service Module",
+      "count": 1
+    },
+    {
+      "text": "ESPRIT",
+      "count": 1
+    },
+    {
+      "text": "ESPRIT - European System Providing Refuelling, Infrastructure and Telecommunications",
+      "count": 1
+    },
+    {
+      "text": "European Large Logistics Lander",
+      "count": 1
+    },
+    {
+      "text": "ExoMars/Trace Gas Orbiter",
+      "count": 1
+    },
+    {
+      "text": "healthcare & wellbeing",
+      "count": 1
+    },
+    {
+      "text": "Hermes",
+      "count": 1
+    },
+    {
+      "text": "Huygens",
+      "count": 1
+    },
+    {
+      "text": "LEO In",
+      "count": 1
+    },
+    {
+      "text": "LEO infrastructures",
+      "count": 1
+    },
+    {
+      "text": "LEO logistics",
+      "count": 1
+    },
+    {
+      "text": "LEO science &",
+      "count": 1
+    },
+    {
+      "text": "LEO transportation",
+      "count": 1
+    },
+    {
+      "text": "LEO utilisation (cf",
+      "count": 1
+    },
+    {
+      "text": "LEO, Moon",
+      "count": 1
+    },
+    {
+      "text": "Life Sciences",
+      "count": 1
+    },
+    {
+      "text": "Luna",
+      "count": 1
+    },
+    {
+      "text": "Market",
+      "count": 1
+    },
+    {
+      "text": "MLE",
+      "count": 1
+    },
+    {
+      "text": "Moon and Mars Elements",
+      "count": 1
+    },
+    {
+      "text": "Moon and Mars Sciences",
+      "count": 1
+    },
+    {
+      "text": "Moon Increase European",
+      "count": 1
+    },
+    {
+      "text": "NASA",
+      "count": 1
+    },
+    {
+      "text": "NewSpace",
+      "count": 1
+    },
+    {
+      "text": "Ongoing Gateway",
+      "count": 1
+    },
+    {
+      "text": "Origin",
+      "count": 1
+    },
+    {
+      "text": "Participating States",
+      "count": 1
+    },
+    {
+      "text": "Physical Sciences",
+      "count": 1
+    },
+    {
+      "text": "S S e n",
+      "count": 1
+    },
+    {
+      "text": "Sci ab",
+      "count": 1
+    },
+    {
+      "text": "Space Resources",
+      "count": 1
+    },
+    {
+      "text": "Spacelab",
+      "count": 1
+    },
+    {
+      "text": "Terrae",
+      "count": 1
+    },
+    {
+      "text": "Terrae Novae Science Spotlights",
+      "count": 1
+    },
+    {
+      "text": "The ESA Council",
+      "count": 1
+    },
+    {
+      "text": "The European Exploration Envelope Programme",
+      "count": 1
+    },
+    {
+      "text": "the European Large Logistics Lander",
+      "count": 1
+    },
+    {
+      "text": "the ExoMars Rover",
+      "count": 1
+    },
+    {
+      "text": "the Terrae Novae Mars",
+      "count": 1
+    },
+    {
+      "text": "the US National Academies of Sciences, Engineering",
+      "count": 1
+    },
+    {
+      "text": "UN Sustainable Development Goals",
+      "count": 1
+    },
+    {
+      "text": "Venus Express",
+      "count": 1
+    }
+  ],
+  "EVENT": [
+    {
+      "text": "the European Space Summit",
+      "count": 2
+    },
+    {
+      "text": "Mars Entry Decent and Landing",
+      "count": 1
+    },
+    {
+      "text": "Mars Sample Return",
+      "count": 1
+    },
+    {
+      "text": "the Global Exploration Roadmap",
+      "count": 1
+    },
+    {
+      "text": "the Mars Life Explorer",
+      "count": 1
+    },
+    {
+      "text": "the ‘New Worlds’",
+      "count": 1
+    }
+  ],
+  "CARDINAL": [
+    {
+      "text": "three",
+      "count": 9
+    },
+    {
+      "text": "2030",
+      "count": 4
+    },
+    {
+      "text": "one",
+      "count": 4
+    },
+    {
+      "text": "1",
+      "count": 3
+    },
+    {
+      "text": "2",
+      "count": 2
+    },
+    {
+      "text": "3",
+      "count": 2
+    },
+    {
+      "text": "12",
+      "count": 1
+    },
+    {
+      "text": "13",
+      "count": 1
+    },
+    {
+      "text": "20302040",
+      "count": 1
+    },
+    {
+      "text": "5",
+      "count": 1
+    },
+    {
+      "text": "6",
+      "count": 1
+    },
+    {
+      "text": "7",
+      "count": 1
+    },
+    {
+      "text": "8)",
+      "count": 1
+    },
+    {
+      "text": "9",
+      "count": 1
+    },
+    {
+      "text": "B1",
+      "count": 1
+    },
+    {
+      "text": "threefold",
+      "count": 1
+    }
+  ],
+  "PERSON": [
+    {
+      "text": "Moon",
+      "count": 13
+    },
+    {
+      "text": "LEO",
+      "count": 7
+    },
+    {
+      "text": "Argonaut",
+      "count": 2
+    },
+    {
+      "text": "ExoMars",
+      "count": 2
+    },
+    {
+      "text": "Josef Aschbacher",
+      "count": 2
+    },
+    {
+      "text": "Rosalind Franklin",
+      "count": 2
+    },
+    {
+      "text": "rcia l S S S S rio n cre",
+      "count": 1
+    },
+    {
+      "text": "ryo",
+      "count": 1
+    }
+  ],
+  "PRODUCT": [
+    {
+      "text": "Agenda 20251",
+      "count": 1
+    },
+    {
+      "text": "Cupola",
+      "count": 1
+    },
+    {
+      "text": "ESA Agenda 2025",
+      "count": 1
+    },
+    {
+      "text": "Orion",
+      "count": 1
+    },
+    {
+      "text": "OS - Orbiting Sample",
+      "count": 1
+    },
+    {
+      "text": "Sample Fetch Rover",
+      "count": 1
+    }
+  ],
+  "FAC": [
+    {
+      "text": "Low Earth Orbit",
+      "count": 3
+    },
+    {
+      "text": "Lunar",
+      "count": 3
+    },
+    {
+      "text": "Space Summit",
+      "count": 1
+    },
+    {
+      "text": "the Gateway Advanced Mars Entry",
+      "count": 1
+    },
+    {
+      "text": "the Pale Blue Dot",
+      "count": 1
+    }
+  ],
+  "NORP": [
+    {
+      "text": "European",
+      "count": 50
+    },
+    {
+      "text": "Europeans",
+      "count": 3
+    },
+    {
+      "text": "post-ISS",
+      "count": 2
+    },
+    {
+      "text": "Martian",
+      "count": 1
+    },
+    {
+      "text": "Rosetta",
+      "count": 1
+    },
+    {
+      "text": "Russian",
+      "count": 1
+    }
+  ],
+  "ORDINAL": [
+    {
+      "text": "first",
+      "count": 8
+    },
+    {
+      "text": "second",
+      "count": 1
+    },
+    {
+      "text": "third",
+      "count": 1
+    }
+  ],
+  "GPE": [
+    {
+      "text": "Moon",
+      "count": 8
+    },
+    {
+      "text": "LEO",
+      "count": 5
+    },
+    {
+      "text": "US",
+      "count": 5
+    },
+    {
+      "text": "China",
+      "count": 3
+    },
+    {
+      "text": "Columbus",
+      "count": 2
+    },
+    {
+      "text": "Toulouse",
+      "count": 2
+    },
+    {
+      "text": "France",
+      "count": 1
+    },
+    {
+      "text": "SRL",
+      "count": 1
+    }
+  ],
+  "LAW": [
+    {
+      "text": "the Mars Sample Return",
+      "count": 2
+    }
+  ],
+  "WORK_OF_ART": [
+    {
+      "text": "Science",
+      "count": 1
+    }
+  ],
+  "QUANTITY": [
+    {
+      "text": "a few tonnes",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,1808 @@
+{
+  "LOC": [
+    {
+      "text": "Earth",
+      "count": 30
+    },
+    {
+      "text": "Mars",
+      "count": 7
+    },
+    {
+      "text": "Inner Mongolia",
+      "count": 1
+    },
+    {
+      "text": "Kármán",
+      "count": 1
+    },
+    {
+      "text": "Mainland China",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    }
+  ],
+  "NORP": [
+    {
+      "text": "American",
+      "count": 10
+    },
+    {
+      "text": "Soviet",
+      "count": 6
+    },
+    {
+      "text": "Chinese",
+      "count": 4
+    },
+    {
+      "text": "Russian",
+      "count": 4
+    },
+    {
+      "text": "European",
+      "count": 2
+    },
+    {
+      "text": "Indian",
+      "count": 2
+    },
+    {
+      "text": "Iranian",
+      "count": 1
+    },
+    {
+      "text": "North American",
+      "count": 1
+    },
+    {
+      "text": "Shuguang",
+      "count": 1
+    }
+  ],
+  "ORDINAL": [
+    {
+      "text": "first",
+      "count": 47
+    },
+    {
+      "text": "second",
+      "count": 8
+    },
+    {
+      "text": "third",
+      "count": 6
+    },
+    {
+      "text": "75th",
+      "count": 1
+    },
+    {
+      "text": "fifth",
+      "count": 1
+    }
+  ],
+  "PERSON": [
+    {
+      "text": "Moon",
+      "count": 12
+    },
+    {
+      "text": "Buran",
+      "count": 3
+    },
+    {
+      "text": "Alan Shepard",
+      "count": 2
+    },
+    {
+      "text": "Fred Haise",
+      "count": 2
+    },
+    {
+      "text": "Gagarin",
+      "count": 2
+    },
+    {
+      "text": "Jack Swigert",
+      "count": 2
+    },
+    {
+      "text": "James Lovell",
+      "count": 2
+    },
+    {
+      "text": "Neil Armstrong",
+      "count": 2
+    },
+    {
+      "text": "Nixon",
+      "count": 2
+    },
+    {
+      "text": "Sally Ride",
+      "count": 2
+    },
+    {
+      "text": "Salyut",
+      "count": 2
+    },
+    {
+      "text": "Starship",
+      "count": 2
+    },
+    {
+      "text": "Valentina Tereshkova",
+      "count": 2
+    },
+    {
+      "text": "Voskhod",
+      "count": 2
+    },
+    {
+      "text": "Yang Liwei",
+      "count": 2
+    },
+    {
+      "text": "Yuri Gagarin",
+      "count": 2
+    },
+    {
+      "text": "Alexei Leonov",
+      "count": 1
+    },
+    {
+      "text": "Armstrong",
+      "count": 1
+    },
+    {
+      "text": "Bill Clinton",
+      "count": 1
+    },
+    {
+      "text": "Buzz Aldrin",
+      "count": 1
+    },
+    {
+      "text": "Christina Koch",
+      "count": 1
+    },
+    {
+      "text": "David Scott",
+      "count": 1
+    },
+    {
+      "text": "Dream Chaser",
+      "count": 1
+    },
+    {
+      "text": "Ed White",
+      "count": 1
+    },
+    {
+      "text": "Eileen Collins",
+      "count": 1
+    },
+    {
+      "text": "Enterobacter",
+      "count": 1
+    },
+    {
+      "text": "Frank Borman",
+      "count": 1
+    },
+    {
+      "text": "Friendship 7",
+      "count": 1
+    },
+    {
+      "text": "George W. Bush",
+      "count": 1
+    },
+    {
+      "text": "Gus Grissom",
+      "count": 1
+    },
+    {
+      "text": "JAXA",
+      "count": 1
+    },
+    {
+      "text": "Jeff Bezos",
+      "count": 1
+    },
+    {
+      "text": "Jessica Meir",
+      "count": 1
+    },
+    {
+      "text": "Jim Lovell",
+      "count": 1
+    },
+    {
+      "text": "John F. Kennedy",
+      "count": 1
+    },
+    {
+      "text": "John Glenn",
+      "count": 1
+    },
+    {
+      "text": "Joseph A. Walker",
+      "count": 1
+    },
+    {
+      "text": "Kankoh",
+      "count": 1
+    },
+    {
+      "text": "Kennedy",
+      "count": 1
+    },
+    {
+      "text": "Koch",
+      "count": 1
+    },
+    {
+      "text": "Kármán",
+      "count": 1
+    },
+    {
+      "text": "Leonid Brezhnev",
+      "count": 1
+    },
+    {
+      "text": "Liu Boming",
+      "count": 1
+    },
+    {
+      "text": "Liu Yang",
+      "count": 1
+    },
+    {
+      "text": "Mao Zedong",
+      "count": 1
+    },
+    {
+      "text": "Mark Bezos",
+      "count": 1
+    },
+    {
+      "text": "Michael Collins",
+      "count": 1
+    },
+    {
+      "text": "Narendra Modi",
+      "count": 1
+    },
+    {
+      "text": "Obama",
+      "count": 1
+    },
+    {
+      "text": "Oliver Daemen",
+      "count": 1
+    },
+    {
+      "text": "Richard Nixon",
+      "count": 1
+    },
+    {
+      "text": "Roger Chaffee",
+      "count": 1
+    },
+    {
+      "text": "Shepard",
+      "count": 1
+    },
+    {
+      "text": "Spiro Agnew",
+      "count": 1
+    },
+    {
+      "text": "Svetlana Savitskaya",
+      "count": 1
+    },
+    {
+      "text": "Tiangong",
+      "count": 1
+    },
+    {
+      "text": "Vladimir Komarov",
+      "count": 1
+    },
+    {
+      "text": "Vladimir Remek",
+      "count": 1
+    },
+    {
+      "text": "Voskhod 2",
+      "count": 1
+    },
+    {
+      "text": "Wally Funk",
+      "count": 1
+    },
+    {
+      "text": "William Anders",
+      "count": 1
+    },
+    {
+      "text": "Zhai Zhigang",
+      "count": 1
+    },
+    {
+      "text": "Zhou Enlai",
+      "count": 1
+    }
+  ],
+  "GPE": [
+    {
+      "text": "China",
+      "count": 15
+    },
+    {
+      "text": "US",
+      "count": 15
+    },
+    {
+      "text": "USSR",
+      "count": 9
+    },
+    {
+      "text": "the Soviet Union",
+      "count": 6
+    },
+    {
+      "text": "Russia",
+      "count": 5
+    },
+    {
+      "text": "the United States",
+      "count": 4
+    },
+    {
+      "text": "United States",
+      "count": 3
+    },
+    {
+      "text": "Columbus",
+      "count": 2
+    },
+    {
+      "text": "India",
+      "count": 2
+    },
+    {
+      "text": "Japan",
+      "count": 2
+    },
+    {
+      "text": "U.S.",
+      "count": 2
+    },
+    {
+      "text": "Apollo",
+      "count": 1
+    },
+    {
+      "text": "Copenhagen Suborbitals",
+      "count": 1
+    },
+    {
+      "text": "Gaganyaan",
+      "count": 1
+    },
+    {
+      "text": "Iran",
+      "count": 1
+    },
+    {
+      "text": "Iraq",
+      "count": 1
+    },
+    {
+      "text": "New Shepard",
+      "count": 1
+    },
+    {
+      "text": "North Korea",
+      "count": 1
+    },
+    {
+      "text": "North Korea's",
+      "count": 1
+    },
+    {
+      "text": "Russian Federation",
+      "count": 1
+    },
+    {
+      "text": "the Soviet Union's",
+      "count": 1
+    },
+    {
+      "text": "the United States'",
+      "count": 1
+    },
+    {
+      "text": "Tiangong",
+      "count": 1
+    }
+  ],
+  "PRODUCT": [
+    {
+      "text": "Soyuz",
+      "count": 8
+    },
+    {
+      "text": "Shuttle",
+      "count": 6
+    },
+    {
+      "text": "Space Shuttle",
+      "count": 4
+    },
+    {
+      "text": "Starliner",
+      "count": 3
+    },
+    {
+      "text": "Vostok",
+      "count": 3
+    },
+    {
+      "text": "Constellation",
+      "count": 2
+    },
+    {
+      "text": "Orion",
+      "count": 2
+    },
+    {
+      "text": "Saturn",
+      "count": 2
+    },
+    {
+      "text": "Artemis II",
+      "count": 1
+    },
+    {
+      "text": "Atlantis",
+      "count": 1
+    },
+    {
+      "text": "Challenger",
+      "count": 1
+    },
+    {
+      "text": "Crew Dragon",
+      "count": 1
+    },
+    {
+      "text": "Discovery",
+      "count": 1
+    },
+    {
+      "text": "Dragon 2",
+      "count": 1
+    },
+    {
+      "text": "Soyuz 1",
+      "count": 1
+    },
+    {
+      "text": "Soyuz 11",
+      "count": 1
+    },
+    {
+      "text": "Soyuz 19",
+      "count": 1
+    },
+    {
+      "text": "Soyuz MS-10",
+      "count": 1
+    },
+    {
+      "text": "Space Shuttle Challenger",
+      "count": 1
+    },
+    {
+      "text": "Spacelab",
+      "count": 1
+    },
+    {
+      "text": "SpaceShipTwo Flight VP-03",
+      "count": 1
+    },
+    {
+      "text": "the Falcon 9",
+      "count": 1
+    },
+    {
+      "text": "the H-II",
+      "count": 1
+    },
+    {
+      "text": "the SpaceX Starship",
+      "count": 1
+    },
+    {
+      "text": "Titan II",
+      "count": 1
+    },
+    {
+      "text": "Vostok 1",
+      "count": 1
+    },
+    {
+      "text": "Vostok 3KA",
+      "count": 1
+    },
+    {
+      "text": "Vostok 6",
+      "count": 1
+    },
+    {
+      "text": "X-15",
+      "count": 1
+    }
+  ],
+  "DATE": [
+    {
+      "text": "1965",
+      "count": 3
+    },
+    {
+      "text": "1973",
+      "count": 3
+    },
+    {
+      "text": "2011",
+      "count": 3
+    },
+    {
+      "text": "12 April 1961",
+      "count": 2
+    },
+    {
+      "text": "15 October 2003",
+      "count": 2
+    },
+    {
+      "text": "1963",
+      "count": 2
+    },
+    {
+      "text": "1964",
+      "count": 2
+    },
+    {
+      "text": "1969",
+      "count": 2
+    },
+    {
+      "text": "1975",
+      "count": 2
+    },
+    {
+      "text": "1981",
+      "count": 2
+    },
+    {
+      "text": "1983",
+      "count": 2
+    },
+    {
+      "text": "1991",
+      "count": 2
+    },
+    {
+      "text": "1992",
+      "count": 2
+    },
+    {
+      "text": "1993",
+      "count": 2
+    },
+    {
+      "text": "1998",
+      "count": 2
+    },
+    {
+      "text": "2001",
+      "count": 2
+    },
+    {
+      "text": "2017",
+      "count": 2
+    },
+    {
+      "text": "2018",
+      "count": 2
+    },
+    {
+      "text": "2020",
+      "count": 2
+    },
+    {
+      "text": "2022",
+      "count": 2
+    },
+    {
+      "text": "28 January 1986",
+      "count": 2
+    },
+    {
+      "text": "5 May 1961",
+      "count": 2
+    },
+    {
+      "text": "May 2020",
+      "count": 2
+    },
+    {
+      "text": "September 2021",
+      "count": 2
+    },
+    {
+      "text": "the 1980s",
+      "count": 2
+    },
+    {
+      "text": "the next few years",
+      "count": 2
+    },
+    {
+      "text": "Tiangong 1",
+      "count": 2
+    },
+    {
+      "text": "1 February 2003",
+      "count": 1
+    },
+    {
+      "text": "11 October 2018",
+      "count": 1
+    },
+    {
+      "text": "13 December 2018",
+      "count": 1
+    },
+    {
+      "text": "13 May 1972",
+      "count": 1
+    },
+    {
+      "text": "14 July 1967",
+      "count": 1
+    },
+    {
+      "text": "142 days",
+      "count": 1
+    },
+    {
+      "text": "15 August 2018",
+      "count": 1
+    },
+    {
+      "text": "16 June 1963",
+      "count": 1
+    },
+    {
+      "text": "171 days",
+      "count": 1
+    },
+    {
+      "text": "18-year old",
+      "count": 1
+    },
+    {
+      "text": "1957",
+      "count": 1
+    },
+    {
+      "text": "1958",
+      "count": 1
+    },
+    {
+      "text": "1961",
+      "count": 1
+    },
+    {
+      "text": "1962",
+      "count": 1
+    },
+    {
+      "text": "1971 to 1986",
+      "count": 1
+    },
+    {
+      "text": "1972",
+      "count": 1
+    },
+    {
+      "text": "1974",
+      "count": 1
+    },
+    {
+      "text": "1976",
+      "count": 1
+    },
+    {
+      "text": "1977",
+      "count": 1
+    },
+    {
+      "text": "1978",
+      "count": 1
+    },
+    {
+      "text": "1984",
+      "count": 1
+    },
+    {
+      "text": "1986",
+      "count": 1
+    },
+    {
+      "text": "1986 to 1996",
+      "count": 1
+    },
+    {
+      "text": "1987",
+      "count": 1
+    },
+    {
+      "text": "1993 to 1997",
+      "count": 1
+    },
+    {
+      "text": "1994",
+      "count": 1
+    },
+    {
+      "text": "1999",
+      "count": 1
+    },
+    {
+      "text": "2 November 2017",
+      "count": 1
+    },
+    {
+      "text": "20 February 1962",
+      "count": 1
+    },
+    {
+      "text": "20 November 1999",
+      "count": 1
+    },
+    {
+      "text": "2003",
+      "count": 1
+    },
+    {
+      "text": "2005",
+      "count": 1
+    },
+    {
+      "text": "2006",
+      "count": 1
+    },
+    {
+      "text": "2008",
+      "count": 1
+    },
+    {
+      "text": "2010",
+      "count": 1
+    },
+    {
+      "text": "2019",
+      "count": 1
+    },
+    {
+      "text": "2026",
+      "count": 1
+    },
+    {
+      "text": "2028",
+      "count": 1
+    },
+    {
+      "text": "21 July",
+      "count": 1
+    },
+    {
+      "text": "24 April 1967",
+      "count": 1
+    },
+    {
+      "text": "24 July",
+      "count": 1
+    },
+    {
+      "text": "25 September 2008",
+      "count": 1
+    },
+    {
+      "text": "25 September 2021",
+      "count": 1
+    },
+    {
+      "text": "25 years",
+      "count": 1
+    },
+    {
+      "text": "25-day",
+      "count": 1
+    },
+    {
+      "text": "26 September 1983",
+      "count": 1
+    },
+    {
+      "text": "27 January 1967",
+      "count": 1
+    },
+    {
+      "text": "29 April 2021",
+      "count": 1
+    },
+    {
+      "text": "3 November 2011",
+      "count": 1
+    },
+    {
+      "text": "30 June 1971",
+      "count": 1
+    },
+    {
+      "text": "31 December 2012",
+      "count": 1
+    },
+    {
+      "text": "4,592 days",
+      "count": 1
+    },
+    {
+      "text": "5 April 1975",
+      "count": 1
+    },
+    {
+      "text": "5 December 1989",
+      "count": 1
+    },
+    {
+      "text": "8 March 1965",
+      "count": 1
+    },
+    {
+      "text": "91",
+      "count": 1
+    },
+    {
+      "text": "A month later",
+      "count": 1
+    },
+    {
+      "text": "about 30 days",
+      "count": 1
+    },
+    {
+      "text": "About 9 months later",
+      "count": 1
+    },
+    {
+      "text": "April 1970",
+      "count": 1
+    },
+    {
+      "text": "April 2017",
+      "count": 1
+    },
+    {
+      "text": "April 2023",
+      "count": 1
+    },
+    {
+      "text": "as late as 2000",
+      "count": 1
+    },
+    {
+      "text": "August 1972",
+      "count": 1
+    },
+    {
+      "text": "August 2022",
+      "count": 1
+    },
+    {
+      "text": "Between 1968 and 1972",
+      "count": 1
+    },
+    {
+      "text": "December 1968",
+      "count": 1
+    },
+    {
+      "text": "December 1972",
+      "count": 1
+    },
+    {
+      "text": "December 2015",
+      "count": 1
+    },
+    {
+      "text": "December 2018",
+      "count": 1
+    },
+    {
+      "text": "December 2019",
+      "count": 1
+    },
+    {
+      "text": "five to eleven days",
+      "count": 1
+    },
+    {
+      "text": "July 20, 2021",
+      "count": 1
+    },
+    {
+      "text": "June 2024",
+      "count": 1
+    },
+    {
+      "text": "June 21, 2004",
+      "count": 1
+    },
+    {
+      "text": "many years",
+      "count": 1
+    },
+    {
+      "text": "March 1966",
+      "count": 1
+    },
+    {
+      "text": "March 1971",
+      "count": 1
+    },
+    {
+      "text": "March 2019",
+      "count": 1
+    },
+    {
+      "text": "March 2026",
+      "count": 1
+    },
+    {
+      "text": "March 2F",
+      "count": 1
+    },
+    {
+      "text": "March 5B",
+      "count": 1
+    },
+    {
+      "text": "May 2002",
+      "count": 1
+    },
+    {
+      "text": "May 2022",
+      "count": 1
+    },
+    {
+      "text": "May 2025",
+      "count": 1
+    },
+    {
+      "text": "no less than 10 years",
+      "count": 1
+    },
+    {
+      "text": "November 1988",
+      "count": 1
+    },
+    {
+      "text": "November 2024",
+      "count": 1
+    },
+    {
+      "text": "October 2014",
+      "count": 1
+    },
+    {
+      "text": "October 2015",
+      "count": 1
+    },
+    {
+      "text": "recent years",
+      "count": 1
+    },
+    {
+      "text": "September 2016",
+      "count": 1
+    },
+    {
+      "text": "That same year",
+      "count": 1
+    },
+    {
+      "text": "the 1970s",
+      "count": 1
+    },
+    {
+      "text": "the 2000s",
+      "count": 1
+    },
+    {
+      "text": "the decades",
+      "count": 1
+    },
+    {
+      "text": "the early 2000s",
+      "count": 1
+    },
+    {
+      "text": "the end of 2022",
+      "count": 1
+    },
+    {
+      "text": "the end of the 1960s",
+      "count": 1
+    },
+    {
+      "text": "the end of the century",
+      "count": 1
+    },
+    {
+      "text": "the middle of the 20th century",
+      "count": 1
+    },
+    {
+      "text": "the next day",
+      "count": 1
+    },
+    {
+      "text": "the past decade",
+      "count": 1
+    },
+    {
+      "text": "twenty-one days",
+      "count": 1
+    },
+    {
+      "text": "two weeks",
+      "count": 1
+    }
+  ],
+  "ORG": [
+    {
+      "text": "Apollo",
+      "count": 20
+    },
+    {
+      "text": "NASA",
+      "count": 17
+    },
+    {
+      "text": "SpaceX",
+      "count": 8
+    },
+    {
+      "text": "Gemini",
+      "count": 6
+    },
+    {
+      "text": "ISS",
+      "count": 6
+    },
+    {
+      "text": "CMS",
+      "count": 5
+    },
+    {
+      "text": "Blue Origin",
+      "count": 4
+    },
+    {
+      "text": "Boeing",
+      "count": 4
+    },
+    {
+      "text": "Tiangong 2",
+      "count": 4
+    },
+    {
+      "text": "Virgin Galactic",
+      "count": 4
+    },
+    {
+      "text": "Artemis",
+      "count": 3
+    },
+    {
+      "text": "Mercury",
+      "count": 3
+    },
+    {
+      "text": "Commercial Crew Development",
+      "count": 2
+    },
+    {
+      "text": "Hermes",
+      "count": 2
+    },
+    {
+      "text": "Project Mercury",
+      "count": 2
+    },
+    {
+      "text": "Shenzhou",
+      "count": 2
+    },
+    {
+      "text": "Tiangong",
+      "count": 2
+    },
+    {
+      "text": "Vostok",
+      "count": 2
+    },
+    {
+      "text": "a European Space Agency",
+      "count": 1
+    },
+    {
+      "text": "Almaz",
+      "count": 1
+    },
+    {
+      "text": "American Companies to Transport",
+      "count": 1
+    },
+    {
+      "text": "American Space Shuttles",
+      "count": 1
+    },
+    {
+      "text": "BFR",
+      "count": 1
+    },
+    {
+      "text": "Blue Ribbon Committee",
+      "count": 1
+    },
+    {
+      "text": "Challenger",
+      "count": 1
+    },
+    {
+      "text": "China Manned Space Program",
+      "count": 1
+    },
+    {
+      "text": "CNN",
+      "count": 1
+    },
+    {
+      "text": "Columbia",
+      "count": 1
+    },
+    {
+      "text": "Command Module",
+      "count": 1
+    },
+    {
+      "text": "Endeavour",
+      "count": 1
+    },
+    {
+      "text": "Energia",
+      "count": 1
+    },
+    {
+      "text": "ESA",
+      "count": 1
+    },
+    {
+      "text": "EVA",
+      "count": 1
+    },
+    {
+      "text": "Falcon 9",
+      "count": 1
+    },
+    {
+      "text": "Falcon Heavy",
+      "count": 1
+    },
+    {
+      "text": "H-II",
+      "count": 1
+    },
+    {
+      "text": "H-IIA",
+      "count": 1
+    },
+    {
+      "text": "IAU-featured",
+      "count": 1
+    },
+    {
+      "text": "Inclusive Astronomy",
+      "count": 1
+    },
+    {
+      "text": "ISA",
+      "count": 1
+    },
+    {
+      "text": "ISRO",
+      "count": 1
+    },
+    {
+      "text": "Kawasaki Heavy Industries",
+      "count": 1
+    },
+    {
+      "text": "Kibō Japanese Experiment Module",
+      "count": 1
+    },
+    {
+      "text": "LEO",
+      "count": 1
+    },
+    {
+      "text": "Lynx",
+      "count": 1
+    },
+    {
+      "text": "Mitsubishi Heavy Industries",
+      "count": 1
+    },
+    {
+      "text": "NADA",
+      "count": 1
+    },
+    {
+      "text": "NASDA",
+      "count": 1
+    },
+    {
+      "text": "Project 714",
+      "count": 1
+    },
+    {
+      "text": "Project Gemini",
+      "count": 1
+    },
+    {
+      "text": "Shenzhou 5",
+      "count": 1
+    },
+    {
+      "text": "Shenzhou 7",
+      "count": 1
+    },
+    {
+      "text": "Shenzhou 9",
+      "count": 1
+    },
+    {
+      "text": "Sierra Nevada",
+      "count": 1
+    },
+    {
+      "text": "Sierra Nevada Corporation's",
+      "count": 1
+    },
+    {
+      "text": "Skylab",
+      "count": 1
+    },
+    {
+      "text": "Soyuz T-10a",
+      "count": 1
+    },
+    {
+      "text": "Space Task Group",
+      "count": 1
+    },
+    {
+      "text": "Space Transportation System",
+      "count": 1
+    },
+    {
+      "text": "SpaceShipOne",
+      "count": 1
+    },
+    {
+      "text": "SpaceshipTwo",
+      "count": 1
+    },
+    {
+      "text": "SpaceShipTwo",
+      "count": 1
+    },
+    {
+      "text": "SpaceX Dragon 2",
+      "count": 1
+    },
+    {
+      "text": "Starliner",
+      "count": 1
+    },
+    {
+      "text": "the Carrington Event",
+      "count": 1
+    },
+    {
+      "text": "The European Space Agency",
+      "count": 1
+    },
+    {
+      "text": "the Fédération Aéronautique Internationale",
+      "count": 1
+    },
+    {
+      "text": "The Indian Space Research Organisation",
+      "count": 1
+    },
+    {
+      "text": "the International Space Station",
+      "count": 1
+    },
+    {
+      "text": "the Iraqi News Agency",
+      "count": 1
+    },
+    {
+      "text": "the Japan Aerospace Exploration Agency",
+      "count": 1
+    },
+    {
+      "text": "the Japanese Rocket Society",
+      "count": 1
+    },
+    {
+      "text": "the Justspace Alliance",
+      "count": 1
+    },
+    {
+      "text": "the Kibō Japanese Experiment Module",
+      "count": 1
+    },
+    {
+      "text": "the Manned Maneuvering Unit",
+      "count": 1
+    },
+    {
+      "text": "the NASA Office of Inspector General",
+      "count": 1
+    },
+    {
+      "text": "the Roscosmos State Corporation",
+      "count": 1
+    },
+    {
+      "text": "the Russian Federal Space Agency",
+      "count": 1
+    },
+    {
+      "text": "the Simplified Aid For EVA Rescue",
+      "count": 1
+    },
+    {
+      "text": "the Space Launch System",
+      "count": 1
+    },
+    {
+      "text": "the Space Race",
+      "count": 1
+    },
+    {
+      "text": "the US Congress",
+      "count": 1
+    },
+    {
+      "text": "Tiangong 1",
+      "count": 1
+    },
+    {
+      "text": "Tianhe",
+      "count": 1
+    },
+    {
+      "text": "Tianzhou 1",
+      "count": 1
+    },
+    {
+      "text": "Un",
+      "count": 1
+    },
+    {
+      "text": "United Launch Alliance Atlas V",
+      "count": 1
+    },
+    {
+      "text": "XCOR Aerospace",
+      "count": 1
+    }
+  ],
+  "CARDINAL": [
+    {
+      "text": "two",
+      "count": 19
+    },
+    {
+      "text": "three",
+      "count": 8
+    },
+    {
+      "text": "3",
+      "count": 3
+    },
+    {
+      "text": "8",
+      "count": 3
+    },
+    {
+      "text": "seven",
+      "count": 3
+    },
+    {
+      "text": "six",
+      "count": 3
+    },
+    {
+      "text": "10",
+      "count": 2
+    },
+    {
+      "text": "2",
+      "count": 2
+    },
+    {
+      "text": "7",
+      "count": 2
+    },
+    {
+      "text": "eleven",
+      "count": 2
+    },
+    {
+      "text": "five",
+      "count": 2
+    },
+    {
+      "text": "four",
+      "count": 2
+    },
+    {
+      "text": "half",
+      "count": 2
+    },
+    {
+      "text": "Two",
+      "count": 2
+    },
+    {
+      "text": "100",
+      "count": 1
+    },
+    {
+      "text": "12",
+      "count": 1
+    },
+    {
+      "text": "135",
+      "count": 1
+    },
+    {
+      "text": "16",
+      "count": 1
+    },
+    {
+      "text": "18a",
+      "count": 1
+    },
+    {
+      "text": "2024",
+      "count": 1
+    },
+    {
+      "text": "2030",
+      "count": 1
+    },
+    {
+      "text": "23",
+      "count": 1
+    },
+    {
+      "text": "256",
+      "count": 1
+    },
+    {
+      "text": "29",
+      "count": 1
+    },
+    {
+      "text": "38",
+      "count": 1
+    },
+    {
+      "text": "51.6",
+      "count": 1
+    },
+    {
+      "text": "51.65",
+      "count": 1
+    },
+    {
+      "text": "9",
+      "count": 1
+    },
+    {
+      "text": "90",
+      "count": 1
+    },
+    {
+      "text": "921",
+      "count": 1
+    },
+    {
+      "text": "approximately a half-dozen",
+      "count": 1
+    },
+    {
+      "text": "at least one",
+      "count": 1
+    },
+    {
+      "text": "fewer than 10",
+      "count": 1
+    },
+    {
+      "text": "More than 600",
+      "count": 1
+    },
+    {
+      "text": "nine",
+      "count": 1
+    },
+    {
+      "text": "Nineteen",
+      "count": 1
+    },
+    {
+      "text": "One",
+      "count": 1
+    },
+    {
+      "text": "one",
+      "count": 1
+    },
+    {
+      "text": "only 75",
+      "count": 1
+    },
+    {
+      "text": "only two",
+      "count": 1
+    },
+    {
+      "text": "Over 100",
+      "count": 1
+    },
+    {
+      "text": "thirty one",
+      "count": 1
+    },
+    {
+      "text": "Three",
+      "count": 1
+    },
+    {
+      "text": "twenty",
+      "count": 1
+    },
+    {
+      "text": "twenty-two",
+      "count": 1
+    },
+    {
+      "text": "two or",
+      "count": 1
+    },
+    {
+      "text": "zero",
+      "count": 1
+    }
+  ],
+  "FAC": [
+    {
+      "text": "the International Space Station",
+      "count": 6
+    },
+    {
+      "text": "Mir",
+      "count": 5
+    },
+    {
+      "text": "the Space Shuttle",
+      "count": 3
+    },
+    {
+      "text": "Cape Kennedy",
+      "count": 1
+    },
+    {
+      "text": "International Space Station",
+      "count": 1
+    },
+    {
+      "text": "Moon",
+      "count": 1
+    },
+    {
+      "text": "N1",
+      "count": 1
+    },
+    {
+      "text": "Shenzhou 1",
+      "count": 1
+    },
+    {
+      "text": "Shenzhou 11",
+      "count": 1
+    },
+    {
+      "text": "Space Station Freedom",
+      "count": 1
+    },
+    {
+      "text": "the Kennedy Space Center",
+      "count": 1
+    },
+    {
+      "text": "The Space Shuttle",
+      "count": 1
+    },
+    {
+      "text": "the Space Shuttle Columbia",
+      "count": 1
+    },
+    {
+      "text": "the Space Shuttle's",
+      "count": 1
+    },
+    {
+      "text": "Tiangong Space Station",
+      "count": 1
+    },
+    {
+      "text": "Vostok",
+      "count": 1
+    }
+  ],
+  "EVENT": [
+    {
+      "text": "the Cold War",
+      "count": 2
+    },
+    {
+      "text": "Cold War",
+      "count": 1
+    },
+    {
+      "text": "Freedom 7",
+      "count": 1
+    },
+    {
+      "text": "the Gulf War of 1991",
+      "count": 1
+    },
+    {
+      "text": "the Space Age",
+      "count": 1
+    },
+    {
+      "text": "the Space Race",
+      "count": 1
+    }
+  ],
+  "QUANTITY": [
+    {
+      "text": "100 kilometres",
+      "count": 1
+    },
+    {
+      "text": "168 kilometres",
+      "count": 1
+    },
+    {
+      "text": "191 nautical miles",
+      "count": 1
+    },
+    {
+      "text": "221 nmi",
+      "count": 1
+    },
+    {
+      "text": "354 kilometers",
+      "count": 1
+    },
+    {
+      "text": "409 kilometers",
+      "count": 1
+    },
+    {
+      "text": "62 mi",
+      "count": 1
+    },
+    {
+      "text": "80 km",
+      "count": 1
+    },
+    {
+      "text": "a few hundred kilometers",
+      "count": 1
+    },
+    {
+      "text": "about 300 km",
+      "count": 1
+    }
+  ],
+  "TIME": [
+    {
+      "text": "130 minutes",
+      "count": 1
+    },
+    {
+      "text": "21 hours",
+      "count": 1
+    },
+    {
+      "text": "73 seconds",
+      "count": 1
+    },
+    {
+      "text": "90 seconds",
+      "count": 1
+    },
+    {
+      "text": "about 30 seconds",
+      "count": 1
+    },
+    {
+      "text": "under one hour",
+      "count": 1
+    }
+  ],
+  "MONEY": [
+    {
+      "text": "190 mi",
+      "count": 1
+    },
+    {
+      "text": "millions of dollars",
+      "count": 1
+    },
+    {
+      "text": "twenty per cent",
+      "count": 1
+    }
+  ],
+  "WORK_OF_ART": [
+    {
+      "text": "Starship",
+      "count": 1
+    }
+  ]
+}

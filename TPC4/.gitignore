@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# modelo treinado (não necessário no repo)
+*.model
+
+# python
+__pycache__/
+*.pyc

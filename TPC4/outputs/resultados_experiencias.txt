@@ -1,0 +1,119 @@
+=== TOP 30 PALAVRAS DO VOCABULÁRIO ===
+['harry', 'rony', 'hagrid', 'hermione', 'dumbledore', 'snape', 'potter', 'lockhart', 'weasley', 'draco', 'sala', 'grifinória', 'ver', 'escola', 'vamos', 'duda', 'varinha', 'antes', 'hogwarts', 'viu', 'sabe', 'rosto', 'deu', 'tio', 'volta', 'alunos', 'chão', 'noite', 'todo', 'outra']
+
+=== MOST SIMILAR ===
+
+[harry]
+inclinando: 0.5407
+boquiabertos: 0.5372
+consultando: 0.5372
+ameaçadora: 0.5370
+parecera: 0.5353
+facilidade: 0.5344
+indignado: 0.5321
+volante: 0.5315
+
+[rony]
+urgência: 0.4747
+automaticamente: 0.4685
+chocada: 0.4568
+quieta: 0.4549
+esqueça: 0.4545
+volante: 0.4515
+frenética: 0.4460
+mandona: 0.4416
+
+[hermione]
+granger: 0.4744
+horário: 0.4587
+apreensivos: 0.4473
+bispo: 0.4364
+sentada: 0.4308
+desesperada: 0.4306
+amiga: 0.4251
+parvati: 0.4137
+
+[hagrid]
+cabana: 0.4792
+caça: 0.4755
+repelente: 0.4412
+perturbado: 0.4389
+carnívoras: 0.4381
+dippet: 0.4338
+fudge: 0.4307
+des: 0.4307
+
+[hogwarts]
+expresso: 0.5854
+bruxaria: 0.5442
+acontecerem: 0.5180
+prestados: 0.5007
+descobrira: 0.4947
+carreiras: 0.4927
+especiais: 0.4917
+recorrerem: 0.4879
+
+[dobby]
+castigar: 0.7569
+doméstico: 0.7224
+vesgo: 0.6747
+elfo: 0.6703
+portão: 0.6452
+tremeu: 0.6343
+admitiu: 0.6291
+libertado: 0.6289
+
+[malfoy]
+lúcio: 0.6495
+desdenhoso: 0.5601
+pavoneando: 0.5538
+irritada: 0.5530
+detido: 0.5447
+rindo: 0.5420
+murros: 0.5323
+importo: 0.5319
+
+=== SIMILARITY ===
+harry ~ rony: 0.4046
+harry ~ hermione: 0.2283
+harry ~ malfoy: 0.2514
+harry ~ hagrid: 0.2330
+rony ~ hermione: 0.3076
+dobby ~ harry: 0.2673
+hogwarts ~ hagrid: 0.1707
+
+=== DOESN'T MATCH ===
+['harry', 'rony', 'hermione', 'vassoura'] -> vassoura
+['hagrid', 'dobby', 'malfoy', 'hogwarts'] -> hogwarts
+['varinha', 'feitiço', 'poção', 'carro'] -> carro
+['hogwarts', 'grifinória', 'sonserina', 'londres'] -> londres
+
+=== ANALOGIAS ===
+
+positive=['harry', 'rony'], negative=['hermione']
+intrigado: 0.4231
+aperto: 0.4159
+chocada: 0.4150
+boquiabertos: 0.4138
+cartão: 0.4085
+
+positive=['malfoy', 'harry'], negative=['rony']
+lúcio: 0.4808
+doer: 0.4749
+murros: 0.4401
+pavoneando: 0.4395
+irritada: 0.4375
+
+positive=['dobby', 'harry'], negative=['hagrid']
+portão: 0.5809
+castigar: 0.5728
+importou: 0.5724
+doméstico: 0.5692
+vesgo: 0.5493
+
+positive=['hogwarts', 'expresso'], negative=['londres']
+dezembro: 0.5276
+tomara: 0.5090
+recorrerem: 0.4864
+lugares: 0.4641
+consciência: 0.4554

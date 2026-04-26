@@ -28,22 +28,24 @@ Os ficheiros `.iob` foram convertidos para o formato binário `.spacy`, nativo d
 ```bash
 spacy convert arquivo_ner_train.iob ./datasets_spacy -c iob
 spacy convert arquivo_ner_test.iob ./datasets_spacy -c iob
-````
+```
 
 ---
 
 ### 2. Configuração e Dependências
+
 Foi gerado o ficheiro de configuração inicial:
 
 ```bash
-spacy init config config.cfg --lang pt --pipeline ner --optimize accuracy -F
-````
+spacy init config config.cfg --lang pt --pipeline ner --optimize accuracy -F 
+```
 
 Como a configuração utilizava vetores do modelo pt_core_news_lg, foi necessária a sua instalação:
 
 ```bash
 python -m spacy download pt_core_news_lg
-````
+```
+
 ---
 
 ### 3. Execução do Treino
@@ -60,11 +62,12 @@ O melhor resultado observado durante o treino foi:
 | 28    | 4200 |     99.31 |  99.40 | 99.36 |
 
 
-O modelo final foi guardado em: ./output/model-best.
+O modelo final foi guardado em: **./output/model-best.**
 
 ---
 
 ### Comparação
+
 | Modelo | Precision | Recall |    F1 |
 | ------ | --------: | -----: | ----: |
 | Aula9  |     94.56 |  96.80 | 95.67 |
@@ -72,6 +75,20 @@ O modelo final foi guardado em: ./output/model-best.
 
 
 O modelo treinado com spaCy obteve resultados superiores em todas as métricas principais (precision, recall e F1-score).
+
+---
+
+## Visualização dos resultados
+
+### Comparação final
+
+![Comparação F1](comparacao_f1.png)
+
+### Evolução do treino spaCy
+
+![Evolução spaCy](evolucao_spacy_f1.png)
+
+O modelo spaCy obteve melhores resultados do que o modelo da aula. A diferença é visível sobretudo no F1, onde o spaCy atingiu 99.36%, enquanto o modelo da aula atingiu 95.67%. Isto indica que o treino com spaCy se adaptou muito bem ao conjunto de dados fornecido em formato IOB.
 
 ---
 

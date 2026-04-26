@@ -1,0 +1,16 @@
+# Modelos treinados pesados
+output/
+
+# Dados derivados (gerados a partir dos .iob)
+*.spacy
+datasets_spacy/
+
+# Jupyter lixo
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

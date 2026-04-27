@@ -103,7 +103,7 @@ O ficheiro `tpc6.py` contém as seguintes funções principais:
 - `query_tf_idf(query_tokens, idf_values)` - calcula os pesos TF-IDF da query;
 - `vectorize_query(query, vocab, idf_values)` - vetoriza a query;
 - `cosine_similarity(vector_a, vector_b)` - calcula a similaridade cosseno;
-- `rank_documents(...)` - ordena os documentos por relevância.
+- `rank_documents(...)` - ordena os documentos por relevância;
 - `print_query_analysis(query, vocab, idf_values)` - mostra os tokens e o vetor TF-IDF da query;
 - `print_ranked_results(query, results)` - imprime apenas os documentos com score superior a 0.
 

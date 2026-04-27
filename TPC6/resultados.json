@@ -1,0 +1,149 @@
+{
+    "corpus": [
+        "the sky is blue",
+        "the sun is bright",
+        "the sun in the sky"
+    ],
+    "corpus_tokens": [
+        [
+            "sky",
+            "blue"
+        ],
+        [
+            "sun",
+            "bright"
+        ],
+        [
+            "sun",
+            "sky"
+        ]
+    ],
+    "vocabulary": [
+        "blue",
+        "bright",
+        "sky",
+        "sun"
+    ],
+    "idf": {
+        "blue": 0.47712125471966244,
+        "bright": 0.47712125471966244,
+        "sky": 0.17609125905568124,
+        "sun": 0.17609125905568124
+    },
+    "document_vectors": [
+        [
+            0.23856062735983122,
+            0.0,
+            0.08804562952784062,
+            0.0
+        ],
+        [
+            0.0,
+            0.23856062735983122,
+            0.0,
+            0.08804562952784062
+        ],
+        [
+            0.0,
+            0.0,
+            0.08804562952784062,
+            0.08804562952784062
+        ]
+    ],
+    "queries": [
+        {
+            "query": "the bright sun",
+            "query_tokens": [
+                "bright",
+                "sun"
+            ],
+            "query_vector": [
+                0.0,
+                0.23856062735983122,
+                0.0,
+                0.08804562952784062
+            ],
+            "results": [
+                {
+                    "doc_id": 2,
+                    "score": 1.0,
+                    "document": "the sun is bright"
+                },
+                {
+                    "doc_id": 3,
+                    "score": 0.24482975009584626,
+                    "document": "the sun in the sky"
+                }
+            ]
+        },
+        {
+            "query": "blue sky",
+            "query_tokens": [
+                "blue",
+                "sky"
+            ],
+            "query_vector": [
+                0.23856062735983122,
+                0.0,
+                0.08804562952784062,
+                0.0
+            ],
+            "results": [
+                {
+                    "doc_id": 1,
+                    "score": 1.0,
+                    "document": "the sky is blue"
+                },
+                {
+                    "doc_id": 3,
+                    "score": 0.24482975009584626,
+                    "document": "the sun in the sky"
+                }
+            ]
+        },
+        {
+            "query": "sun sky",
+            "query_tokens": [
+                "sun",
+                "sky"
+            ],
+            "query_vector": [
+                0.0,
+                0.0,
+                0.08804562952784062,
+                0.08804562952784062
+            ],
+            "results": [
+                {
+                    "doc_id": 3,
+                    "score": 1.0,
+                    "document": "the sun in the sky"
+                },
+                {
+                    "doc_id": 1,
+                    "score": 0.24482975009584626,
+                    "document": "the sky is blue"
+                },
+                {
+                    "doc_id": 2,
+                    "score": 0.24482975009584626,
+                    "document": "the sun is bright"
+                }
+            ]
+        },
+        {
+            "query": "green mountain",
+            "query_tokens": [
+                "green",
+                "mountain"
+            ],
+            "query_vector": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "results": []
+        }
+    ]
+}

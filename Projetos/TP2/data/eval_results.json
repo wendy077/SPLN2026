@@ -1,0 +1,926 @@
+{
+  "bm25": {
+    "mrr": 0.8475,
+    "precision_at_1": 0.75,
+    "num_queries": 20,
+    "per_query": [
+      {
+        "id": "q01",
+        "question": "Who released OK Computer?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ok_computer",
+        "top1_title": "OK Computer",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q02",
+        "question": "Who is the lead singer of Radiohead?",
+        "mrr": 0.2,
+        "p@1": 0.0,
+        "top1_doc": "artist_the_smiths",
+        "top1_title": "The Smiths",
+        "hit@3": 0.0
+      },
+      {
+        "id": "q03",
+        "question": "What genre is Nirvana associated with?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_grunge",
+        "top1_title": "Grunge",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q04",
+        "question": "Which album did Kendrick Lamar release in 2015?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_to_pimp_a_butterfly",
+        "top1_title": "To Pimp a Butterfly",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q05",
+        "question": "Where does Coachella take place?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "festival_lollapalooza",
+        "top1_title": "Lollapalooza",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q06",
+        "question": "What is the name of the Pink Floyd album released in 1973?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_dark_side_of_the_moon",
+        "top1_title": "The Dark Side of the Moon",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q07",
+        "question": "What genre originated from Seattle in the early 1990s?",
+        "mrr": 0.25,
+        "p@1": 0.0,
+        "top1_doc": "genre_neo_soul",
+        "top1_title": "Neo soul",
+        "hit@3": 0.0
+      },
+      {
+        "id": "q08",
+        "question": "Who founded the Grammy Awards?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "award_grammy_awards",
+        "top1_title": "Grammy Awards",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q09",
+        "question": "Which artist released the album Blonde?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_blonde",
+        "top1_title": "Blonde",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q10",
+        "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_nu_metal",
+        "top1_title": "Nu metal",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q11",
+        "question": "When was Lollapalooza founded?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "festival_coachella",
+        "top1_title": "Coachella",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q12",
+        "question": "Which band released the album Nevermind?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_nevermind",
+        "top1_title": "Nevermind",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q13",
+        "question": "What is the real name of Childish Gambino?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_childish_gambino",
+        "top1_title": "Childish Gambino",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q14",
+        "question": "What genre combines elements of soul and R&B with hip hop?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "genre_contemporary_randb",
+        "top1_title": "Contemporary R&B",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q15",
+        "question": "Which artist released the album Ctrl?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ctrl",
+        "top1_title": "Ctrl",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q16",
+        "question": "In which country does Glastonbury Festival take place?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_glastonbury_festival",
+        "top1_title": "Glastonbury Festival",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q17",
+        "question": "What label did Kanye West found?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_kanye_west",
+        "top1_title": "Kanye West",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q18",
+        "question": "Which album by Eminem was released in 2002?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_eminem_show",
+        "top1_title": "The Eminem Show",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q19",
+        "question": "What is trip hop?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_trip_hop",
+        "top1_title": "Trip hop",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q20",
+        "question": "What is the Eurovision Song Contest?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "event_eurovision_song_contest",
+        "top1_title": "Eurovision Song Contest",
+        "hit@3": 1.0
+      }
+    ],
+    "hit_at_3": 0.9
+  },
+  "sbert": {
+    "mrr": 0.925,
+    "precision_at_1": 0.85,
+    "num_queries": 20,
+    "per_query": [
+      {
+        "id": "q01",
+        "question": "Who released OK Computer?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ok_computer",
+        "top1_title": "OK Computer",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q02",
+        "question": "Who is the lead singer of Radiohead?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_radiohead",
+        "top1_title": "Radiohead",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q03",
+        "question": "What genre is Nirvana associated with?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_grunge",
+        "top1_title": "Grunge",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q04",
+        "question": "Which album did Kendrick Lamar release in 2015?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "album_good_kid_m_a_a_d_city",
+        "top1_title": "good kid, m.A.A.d city",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q05",
+        "question": "Where does Coachella take place?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_coachella",
+        "top1_title": "Coachella",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q06",
+        "question": "What is the name of the Pink Floyd album released in 1973?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_dark_side_of_the_moon",
+        "top1_title": "The Dark Side of the Moon",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q07",
+        "question": "What genre originated from Seattle in the early 1990s?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_grunge",
+        "top1_title": "Grunge",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q08",
+        "question": "Who founded the Grammy Awards?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "award_grammy_awards",
+        "top1_title": "Grammy Awards",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q09",
+        "question": "Which artist released the album Blonde?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_blonde",
+        "top1_title": "Blonde",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q10",
+        "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "genre_indie_rock",
+        "top1_title": "Indie rock",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q11",
+        "question": "When was Lollapalooza founded?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_lollapalooza",
+        "top1_title": "Lollapalooza",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q12",
+        "question": "Which band released the album Nevermind?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_nevermind",
+        "top1_title": "Nevermind",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q13",
+        "question": "What is the real name of Childish Gambino?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_childish_gambino",
+        "top1_title": "Childish Gambino",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q14",
+        "question": "What genre combines elements of soul and R&B with hip hop?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "genre_contemporary_randb",
+        "top1_title": "Contemporary R&B",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q15",
+        "question": "Which artist released the album Ctrl?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ctrl",
+        "top1_title": "Ctrl",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q16",
+        "question": "In which country does Glastonbury Festival take place?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_glastonbury_festival",
+        "top1_title": "Glastonbury Festival",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q17",
+        "question": "What label did Kanye West found?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_kanye_west",
+        "top1_title": "Kanye West",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q18",
+        "question": "Which album by Eminem was released in 2002?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_eminem_show",
+        "top1_title": "The Eminem Show",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q19",
+        "question": "What is trip hop?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_trip_hop",
+        "top1_title": "Trip hop",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q20",
+        "question": "What is the Eurovision Song Contest?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "event_eurovision_song_contest",
+        "top1_title": "Eurovision Song Contest",
+        "hit@3": 1.0
+      }
+    ],
+    "hit_at_3": 1.0
+  },
+  "hybrid": {
+    "mrr": 0.95,
+    "precision_at_1": 0.9,
+    "num_queries": 20,
+    "per_query": [
+      {
+        "id": "q01",
+        "question": "Who released OK Computer?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ok_computer",
+        "top1_title": "OK Computer",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q02",
+        "question": "Who is the lead singer of Radiohead?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_radiohead",
+        "top1_title": "Radiohead",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q03",
+        "question": "What genre is Nirvana associated with?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_grunge",
+        "top1_title": "Grunge",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q04",
+        "question": "Which album did Kendrick Lamar release in 2015?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "album_good_kid_m_a_a_d_city",
+        "top1_title": "good kid, m.A.A.d city",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q05",
+        "question": "Where does Coachella take place?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_coachella",
+        "top1_title": "Coachella",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q06",
+        "question": "What is the name of the Pink Floyd album released in 1973?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_dark_side_of_the_moon",
+        "top1_title": "The Dark Side of the Moon",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q07",
+        "question": "What genre originated from Seattle in the early 1990s?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_grunge",
+        "top1_title": "Grunge",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q08",
+        "question": "Who founded the Grammy Awards?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "award_grammy_awards",
+        "top1_title": "Grammy Awards",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q09",
+        "question": "Which artist released the album Blonde?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_blonde",
+        "top1_title": "Blonde",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q10",
+        "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_nu_metal",
+        "top1_title": "Nu metal",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q11",
+        "question": "When was Lollapalooza founded?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_lollapalooza",
+        "top1_title": "Lollapalooza",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q12",
+        "question": "Which band released the album Nevermind?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_nevermind",
+        "top1_title": "Nevermind",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q13",
+        "question": "What is the real name of Childish Gambino?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_childish_gambino",
+        "top1_title": "Childish Gambino",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q14",
+        "question": "What genre combines elements of soul and R&B with hip hop?",
+        "mrr": 0.5,
+        "p@1": 0.0,
+        "top1_doc": "genre_contemporary_randb",
+        "top1_title": "Contemporary R&B",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q15",
+        "question": "Which artist released the album Ctrl?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_ctrl",
+        "top1_title": "Ctrl",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q16",
+        "question": "In which country does Glastonbury Festival take place?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "festival_glastonbury_festival",
+        "top1_title": "Glastonbury Festival",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q17",
+        "question": "What label did Kanye West found?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "artist_kanye_west",
+        "top1_title": "Kanye West",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q18",
+        "question": "Which album by Eminem was released in 2002?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "album_the_eminem_show",
+        "top1_title": "The Eminem Show",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q19",
+        "question": "What is trip hop?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "genre_trip_hop",
+        "top1_title": "Trip hop",
+        "hit@3": 1.0
+      },
+      {
+        "id": "q20",
+        "question": "What is the Eurovision Song Contest?",
+        "mrr": 1.0,
+        "p@1": 1.0,
+        "top1_doc": "event_eurovision_song_contest",
+        "top1_title": "Eurovision Song Contest",
+        "hit@3": 1.0
+      }
+    ],
+    "hit_at_3": 1.0
+  },
+  "qa": {
+    "extractive": {
+      "exact_match": 45.0,
+      "f1": 46.43,
+      "num_queries": 20,
+      "per_query": [
+        {
+          "id": "q01",
+          "question": "Who released OK Computer?",
+          "expected": "Radiohead",
+          "predicted": "Radiohead",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q02",
+          "question": "Who is the lead singer of Radiohead?",
+          "expected": "Thom Yorke",
+          "predicted": "Morrissey",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q03",
+          "question": "What genre is Nirvana associated with?",
+          "expected": "Grunge",
+          "predicted": "Grunge",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q04",
+          "question": "Which album did Kendrick Lamar release in 2015?",
+          "expected": "To Pimp a Butterfly",
+          "predicted": "good kid, m.A.A.d city",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q05",
+          "question": "Where does Coachella take place?",
+          "expected": "Indio",
+          "predicted": "South West England at Worthy Farm",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q06",
+          "question": "What is the name of the Pink Floyd album released in 1973?",
+          "expected": "The Dark Side of the Moon",
+          "predicted": "The Dark Side of the Moon",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q07",
+          "question": "What genre originated from Seattle in the early 1990s?",
+          "expected": "Grunge",
+          "predicted": "Grunge",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q08",
+          "question": "Who founded the Grammy Awards?",
+          "expected": "Recording Academy",
+          "predicted": "Terry Stewart",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q09",
+          "question": "Which artist released the album Blonde?",
+          "expected": "Frank Ocean",
+          "predicted": "Frank Ocean",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q10",
+          "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+          "expected": "Nu metal",
+          "predicted": "Nu metal",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q11",
+          "question": "When was Lollapalooza founded?",
+          "expected": "1991",
+          "predicted": "Sunday afternoon",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q12",
+          "question": "Which band released the album Nevermind?",
+          "expected": "Nirvana",
+          "predicted": "Nirvana",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q13",
+          "question": "What is the real name of Childish Gambino?",
+          "expected": "Donald Glover",
+          "predicted": "Cordae",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q14",
+          "question": "What genre combines elements of soul and R&B with hip hop?",
+          "expected": "Neo soul",
+          "predicted": "Contemporary R&B",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q15",
+          "question": "Which artist released the album Ctrl?",
+          "expected": "SZA",
+          "predicted": "SZA",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q16",
+          "question": "In which country does Glastonbury Festival take place?",
+          "expected": "England",
+          "predicted": "European",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q17",
+          "question": "What label did Kanye West found?",
+          "expected": "GOOD Music",
+          "predicted": "808s & Heartbreak",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q18",
+          "question": "Which album by Eminem was released in 2002?",
+          "expected": "The Eminem Show",
+          "predicted": "The Eminem Show",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q19",
+          "question": "What is trip hop?",
+          "expected": "electronic music genre",
+          "predicted": "genre. The source is Wikipedia",
+          "em": 0,
+          "f1": 0.2857
+        },
+        {
+          "id": "q20",
+          "question": "What is the Eurovision Song Contest?",
+          "expected": "song competition",
+          "predicted": "The document title",
+          "em": 0,
+          "f1": 0.0
+        }
+      ]
+    },
+    "abstractive": {
+      "exact_match": 50.0,
+      "f1": 52.86,
+      "num_queries": 20,
+      "method_counts": {
+        "metadata": 7,
+        "generative": 13
+      },
+      "per_query": [
+        {
+          "id": "q01",
+          "question": "Who released OK Computer?",
+          "expected": "Radiohead",
+          "predicted": "Radiohead",
+          "method": "metadata",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q02",
+          "question": "Who is the lead singer of Radiohead?",
+          "expected": "Thom Yorke",
+          "predicted": "Thom Yorke",
+          "method": "generative",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q03",
+          "question": "What genre is Nirvana associated with?",
+          "expected": "Grunge",
+          "predicted": "Grunge",
+          "method": "metadata",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q04",
+          "question": "Which album did Kendrick Lamar release in 2015?",
+          "expected": "To Pimp a Butterfly",
+          "predicted": "good kid, m.A.A.d city",
+          "method": "metadata",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q05",
+          "question": "Where does Coachella take place?",
+          "expected": "Indio",
+          "predicted": "Barcelona.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q06",
+          "question": "What is the name of the Pink Floyd album released in 1973?",
+          "expected": "The Dark Side of the Moon",
+          "predicted": "The Dark Side of the Moon",
+          "method": "generative",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q07",
+          "question": "What genre originated from Seattle in the early 1990s?",
+          "expected": "Grunge",
+          "predicted": "Grunge",
+          "method": "metadata",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q08",
+          "question": "Who founded the Grammy Awards?",
+          "expected": "Recording Academy",
+          "predicted": "Recording Academy of the United States",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.5714
+        },
+        {
+          "id": "q09",
+          "question": "Which artist released the album Blonde?",
+          "expected": "Frank Ocean",
+          "predicted": "Frank Ocean.",
+          "method": "generative",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q10",
+          "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+          "expected": "Nu metal",
+          "predicted": "Nu metal",
+          "method": "metadata",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q11",
+          "question": "When was Lollapalooza founded?",
+          "expected": "1991",
+          "predicted": "Rolling Loud, Tyla Yaweh was a longtime friend.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q12",
+          "question": "Which band released the album Nevermind?",
+          "expected": "Nirvana",
+          "predicted": "Radiohead.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q13",
+          "question": "What is the real name of Childish Gambino?",
+          "expected": "Donald Glover",
+          "predicted": "Early career Glover's",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q14",
+          "question": "What genre combines elements of soul and R&B with hip hop?",
+          "expected": "Neo soul",
+          "predicted": "Contemporary R&B",
+          "method": "metadata",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q15",
+          "question": "Which artist released the album Ctrl?",
+          "expected": "SZA",
+          "predicted": "SZA",
+          "method": "generative",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q16",
+          "question": "In which country does Glastonbury Festival take place?",
+          "expected": "England",
+          "predicted": "Spain.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q17",
+          "question": "What label did Kanye West found?",
+          "expected": "GOOD Music",
+          "predicted": "GOOD Music",
+          "method": "generative",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q18",
+          "question": "Which album by Eminem was released in 2002?",
+          "expected": "The Eminem Show",
+          "predicted": "The Eminem Show",
+          "method": "metadata",
+          "em": 1,
+          "f1": 1.0
+        },
+        {
+          "id": "q19",
+          "question": "What is trip hop?",
+          "expected": "electronic music genre",
+          "predicted": "Psychedelic fusion of hip-hop and electronica with slow tempos and an atmospheric sound.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        },
+        {
+          "id": "q20",
+          "question": "What is the Eurovision Song Contest?",
+          "expected": "song competition",
+          "predicted": "It is an event.",
+          "method": "generative",
+          "em": 0,
+          "f1": 0.0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "base_model": "distilbert-base-cased",
+  "dataset": "squad",
+  "epochs": 1,
+  "batch_size": 4,
+  "learning_rate": 3e-05,
+  "weight_decay": 0.01,
+  "max_train_samples": null,
+  "max_eval_samples": null,
+  "max_steps": null,
+  "max_length": 384,
+  "doc_stride": 128,
+  "seed": 42,
+  "output_dir": "/Users/wendy/Desktop/SPLN2026/Projetos/TP2/models/qa_finetuned",
+  "eval_metrics": {
+    "finetuned": {
+      "exact_match": 65.24,
+      "f1": 75.85,
+      "num_samples": 10570
+    },
+    "baseline": {
+      "exact_match": 71.14,
+      "f1": 80.59,
+      "num_samples": 10570
+    },
+    "delta_em": -5.9,
+    "delta_f1": -4.74
+  }
+}

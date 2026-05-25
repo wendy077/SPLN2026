@@ -1,0 +1,8 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 3982,
+  "embedding_dim": 384,
+  "normalized": true,
+  "chunks_path": "data/processed/chunks.jsonl",
+  "embeddings_path": "models/sbert_chunk_embeddings.npy"
+}

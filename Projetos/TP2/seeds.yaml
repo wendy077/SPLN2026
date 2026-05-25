@@ -1,0 +1,366 @@
+artists:
+  - name: Radiohead
+    wiki_title: Radiohead
+    type: artist
+  - name: Arctic Monkeys
+    wiki_title: Arctic Monkeys
+    type: artist
+  - name: Nirvana
+    wiki_title: Nirvana (band)
+    type: artist
+  - name: Pearl Jam
+    wiki_title: Pearl Jam
+    type: artist
+  - name: Foo Fighters
+    wiki_title: Foo Fighters
+    type: artist
+  - name: Red Hot Chili Peppers
+    wiki_title: Red Hot Chili Peppers
+    type: artist
+  - name: The Cure
+    wiki_title: The Cure
+    type: artist
+  - name: Pink Floyd
+    wiki_title: Pink Floyd
+    type: artist
+  - name: Tame Impala
+    wiki_title: Tame Impala
+    type: artist
+  - name: Muse
+    wiki_title: Muse (band)
+    type: artist
+  - name: Oasis
+    wiki_title: Oasis (band)
+    type: artist
+  - name: Linkin Park
+    wiki_title: Linkin Park
+    type: artist
+  - name: Deftones
+    wiki_title: Deftones
+    type: artist
+  - name: Evanescence
+    wiki_title: Evanescence
+    type: artist
+  - name: Bon Jovi
+    wiki_title: Bon Jovi
+    type: artist
+  - name: Sum 41
+    wiki_title: Sum 41
+    type: artist
+  - name: Fleetwood Mac
+    wiki_title: Fleetwood Mac
+    type: artist
+  - name: The Smiths
+    wiki_title: The Smiths
+    type: artist
+  - name: Portishead
+    wiki_title: Portishead (band)
+    type: artist
+  - name: The Neighbourhood
+    wiki_title: The Neighbourhood
+    type: artist
+
+  - name: Kendrick Lamar
+    wiki_title: Kendrick Lamar
+    type: artist
+  - name: Kanye West
+    wiki_title: Kanye West
+    type: artist
+  - name: J. Cole
+    wiki_title: J. Cole
+    type: artist
+  - name: A$AP Rocky
+    wiki_title: ASAP Rocky
+    type: artist
+  - name: Tyler, the Creator
+    wiki_title: Tyler, the Creator
+    type: artist
+  - name: Drake
+    wiki_title: Drake (musician)
+    type: artist
+  - name: Travis Scott
+    wiki_title: Travis Scott
+    type: artist
+  - name: Eminem
+    wiki_title: Eminem
+    type: artist
+  - name: Baby Keem
+    wiki_title: Baby Keem
+    type: artist
+  - name: Joey Bada$$
+    wiki_title: Joey Badass
+    type: artist
+  - name: Don Toliver
+    wiki_title: Don Toliver
+    type: artist
+  - name: Big Sean
+    wiki_title: Big Sean
+    type: artist
+  - name: JID
+    wiki_title: JID
+    type: artist
+  - name: Mac Miller
+    wiki_title: Mac Miller
+    type: artist
+  - name: Future
+    wiki_title: Future (rapper)
+    type: artist
+  - name: Childish Gambino
+    wiki_title: Donald Glover
+    type: artist
+  - name: Metro Boomin
+    wiki_title: Metro Boomin
+    type: artist
+  - name: Dave
+    wiki_title: Dave (rapper)
+    type: artist
+  - name: Post Malone
+    wiki_title: Post Malone
+    type: artist
+  - name: 2Pac
+    wiki_title: Tupac Shakur
+    type: artist
+  - name: Nas
+    wiki_title: Nas
+    type: artist
+  - name: Cordae
+    wiki_title: Cordae
+    type: artist
+
+  - name: Frank Ocean
+    wiki_title: Frank Ocean
+    type: artist
+  - name: SZA
+    wiki_title: SZA
+    type: artist
+  - name: Rihanna
+    wiki_title: Rihanna
+    type: artist
+  - name: Jorja Smith
+    wiki_title: Jorja Smith
+    type: artist
+  - name: The Weeknd
+    wiki_title: The Weeknd
+    type: artist
+  - name: Ne-Yo
+    wiki_title: Ne-Yo
+    type: artist
+  - name: Madonna
+    wiki_title: Madonna
+    type: artist
+  - name: Nelly Furtado
+    wiki_title: Nelly Furtado
+    type: artist
+  - name: Christina Aguilera
+    wiki_title: Christina Aguilera
+    type: artist
+  - name: Katy Perry
+    wiki_title: Katy Perry
+    type: artist
+  - name: ABBA
+    wiki_title: ABBA
+    type: artist
+  - name: 6LACK
+    wiki_title: 6lack
+    type: artist
+  - name: Jessie Reyez
+    wiki_title: Jessie Reyez
+    type: artist
+  - name: Bryson Tiller
+    wiki_title: Bryson Tiller
+    type: artist
+  - name: James Blake
+    wiki_title: James Blake (musician)
+    type: artist
+  - name: PinkPantheress
+    wiki_title: PinkPantheress
+    type: artist
+  - name: Bruno Mars
+    wiki_title: Bruno Mars
+    type: artist
+  - name: Alicia Keys
+    wiki_title: Alicia Keys
+    type: artist
+
+albums:
+  - name: OK Computer
+    artist: Radiohead
+    wiki_title: OK Computer
+    type: album
+  - name: In Rainbows
+    artist: Radiohead
+    wiki_title: In Rainbows
+    type: album
+  - name: AM
+    artist: Arctic Monkeys
+    wiki_title: AM (Arctic Monkeys album)
+    type: album
+  - name: Nevermind
+    artist: Nirvana
+    wiki_title: Nevermind
+    type: album
+  - name: Ten
+    artist: Pearl Jam
+    wiki_title: Ten (Pearl Jam album)
+    type: album
+  - name: The Colour and the Shape
+    artist: Foo Fighters
+    wiki_title: The Colour and the Shape
+    type: album
+  - name: Californication
+    artist: Red Hot Chili Peppers
+    wiki_title: Californication (album)
+    type: album
+  - name: Disintegration
+    artist: The Cure
+    wiki_title: Disintegration (The Cure album)
+    type: album
+  - name: The Dark Side of the Moon
+    artist: Pink Floyd
+    wiki_title: The Dark Side of the Moon
+    type: album
+  - name: Currents
+    artist: Tame Impala
+    wiki_title: Currents (Tame Impala album)
+    type: album
+
+  - name: To Pimp a Butterfly
+    artist: Kendrick Lamar
+    wiki_title: To Pimp a Butterfly
+    type: album
+  - name: good kid, m.A.A.d city
+    artist: Kendrick Lamar
+    wiki_title: Good Kid, M.A.A.D City
+    type: album
+  - name: The College Dropout
+    artist: Kanye West
+    wiki_title: The College Dropout
+    type: album
+  - name: My Beautiful Dark Twisted Fantasy
+    artist: Kanye West
+    wiki_title: My Beautiful Dark Twisted Fantasy
+    type: album
+  - name: 2014 Forest Hills Drive
+    artist: J. Cole
+    wiki_title: 2014 Forest Hills Drive
+    type: album
+  - name: The Off-Season
+    artist: J. Cole
+    wiki_title: The Off-Season
+    type: album
+  - name: Long.Live.A$AP
+    artist: A$AP Rocky
+    wiki_title: Long. Live. ASAP
+    type: album
+  - name: At.Long.Last.A$AP
+    artist: A$AP Rocky
+    wiki_title: At. Long. Last. ASAP
+    type: album
+  - name: Igor
+    artist: Tyler, the Creator
+    wiki_title: Igor (album)
+    type: album
+  - name: Take Care
+    artist: Drake
+    wiki_title: Take Care (album)
+    type: album
+  - name: Astroworld
+    artist: Travis Scott
+    wiki_title: Astroworld (album)
+    type: album
+  - name: The Eminem Show
+    artist: Eminem
+    wiki_title: The Eminem Show
+    type: album
+
+  - name: Blonde
+    artist: Frank Ocean
+    wiki_title: Blonde (Frank Ocean album)
+    type: album
+  - name: Ctrl
+    artist: SZA
+    wiki_title: Ctrl (SZA album)
+    type: album
+  - name: Anti
+    artist: Rihanna
+    wiki_title: Anti (album)
+    type: album
+
+genres:
+  - name: Alternative rock
+    wiki_title: Alternative rock
+    type: genre
+  - name: Indie rock
+    wiki_title: Indie rock
+    type: genre
+  - name: Grunge
+    wiki_title: Grunge
+    type: genre
+  - name: Psychedelic rock
+    wiki_title: Psychedelic rock
+    type: genre
+  - name: Post-punk
+    wiki_title: Post-punk
+    type: genre
+  - name: Nu metal
+    wiki_title: Nu metal
+    type: genre
+  - name: Hip hop
+    wiki_title: Hip hop music
+    type: genre
+  - name: Trap
+    wiki_title: Trap music
+    type: genre
+  - name: Cloud rap
+    wiki_title: Cloud rap
+    type: genre
+  - name: Contemporary R&B
+    wiki_title: Contemporary R&B
+    type: genre
+  - name: Neo soul
+    wiki_title: Neo soul
+    type: genre
+  - name: Soul
+    wiki_title: Soul music
+    type: genre
+  - name: Pop
+    wiki_title: Pop music
+    type: genre
+  - name: Dance-pop
+    wiki_title: Dance-pop
+    type: genre
+  - name: Trip hop
+    wiki_title: Trip hop
+    type: genre
+
+events:
+  - name: Grammy Awards
+    wiki_title: Grammy Awards
+    type: award
+  - name: MTV Video Music Awards
+    wiki_title: MTV Video Music Awards
+    type: award
+  - name: Rock and Roll Hall of Fame
+    wiki_title: Rock and Roll Hall of Fame
+    type: award
+  - name: Coachella
+    wiki_title: Coachella Valley Music and Arts Festival
+    type: festival
+  - name: Glastonbury Festival
+    wiki_title: Glastonbury Festival
+    type: festival
+  - name: Lollapalooza
+    wiki_title: Lollapalooza
+    type: festival
+  - name: Primavera Sound
+    wiki_title: Primavera Sound
+    type: festival
+  - name: Rolling Loud
+    wiki_title: Rolling Loud
+    type: festival
+  - name: Eurovision Song Contest
+    wiki_title: Eurovision Song Contest
+    type: event
+  - name: Hip hop culture
+    wiki_title: Hip hop culture
+    type: movement

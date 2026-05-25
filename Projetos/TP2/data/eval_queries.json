@@ -1,0 +1,142 @@
+[
+  {
+    "id": "q01",
+    "question": "Who released OK Computer?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_ok_computer"],
+    "expected_answer": "Radiohead"
+  },
+  {
+    "id": "q02",
+    "question": "Who is the lead singer of Radiohead?",
+    "filter_type": "artist",
+    "relevant_doc_ids": ["artist_radiohead"],
+    "expected_answer": "Thom Yorke"
+  },
+  {
+    "id": "q03",
+    "question": "What genre is Nirvana associated with?",
+    "filter_type": "genre",
+    "relevant_doc_ids": ["genre_grunge", "artist_nirvana"],
+    "expected_answer": "Grunge"
+  },
+  {
+    "id": "q04",
+    "question": "Which album did Kendrick Lamar release in 2015?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_to_pimp_a_butterfly"],
+    "expected_answer": "To Pimp a Butterfly"
+  },
+  {
+    "id": "q05",
+    "question": "Where does Coachella take place?",
+    "filter_type": "festival",
+    "relevant_doc_ids": ["festival_coachella"],
+    "expected_answer": "Indio"
+  },
+  {
+    "id": "q06",
+    "question": "What is the name of the Pink Floyd album released in 1973?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_the_dark_side_of_the_moon"],
+    "expected_answer": "The Dark Side of the Moon"
+  },
+  {
+    "id": "q07",
+    "question": "What genre originated from Seattle in the early 1990s?",
+    "filter_type": "genre",
+    "relevant_doc_ids": ["genre_grunge", "artist_nirvana"],
+    "expected_answer": "Grunge"
+  },
+  {
+    "id": "q08",
+    "question": "Who founded the Grammy Awards?",
+    "filter_type": "award",
+    "relevant_doc_ids": ["award_grammy_awards"],
+    "expected_answer": "Recording Academy"
+  },
+  {
+    "id": "q09",
+    "question": "Which artist released the album Blonde?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_blonde"],
+    "expected_answer": "Frank Ocean"
+  },
+  {
+    "id": "q10",
+    "question": "What genre is characterized by heavy guitar riffs and aggressive vocals?",
+    "filter_type": "genre",
+    "relevant_doc_ids": ["genre_nu_metal", "artist_linkin_park"],
+    "expected_answer": "Nu metal"
+  },
+  {
+    "id": "q11",
+    "question": "When was Lollapalooza founded?",
+    "filter_type": "festival",
+    "relevant_doc_ids": ["festival_lollapalooza"],
+    "expected_answer": "1991"
+  },
+  {
+    "id": "q12",
+    "question": "Which band released the album Nevermind?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_nevermind"],
+    "expected_answer": "Nirvana"
+  },
+  {
+    "id": "q13",
+    "question": "What is the real name of Childish Gambino?",
+    "filter_type": "artist",
+    "relevant_doc_ids": ["artist_childish_gambino"],
+    "expected_answer": "Donald Glover"
+  },
+  {
+    "id": "q14",
+    "question": "What genre combines elements of soul and R&B with hip hop?",
+    "filter_type": "genre",
+    "relevant_doc_ids": ["genre_neo_soul"],
+    "expected_answer": "Neo soul"
+  },
+  {
+    "id": "q15",
+    "question": "Which artist released the album Ctrl?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_ctrl"],
+    "expected_answer": "SZA"
+  },
+  {
+    "id": "q16",
+    "question": "In which country does Glastonbury Festival take place?",
+    "filter_type": "festival",
+    "relevant_doc_ids": ["festival_glastonbury_festival"],
+    "expected_answer": "England"
+  },
+  {
+    "id": "q17",
+    "question": "What label did Kanye West found?",
+    "filter_type": "artist",
+    "relevant_doc_ids": ["artist_kanye_west"],
+    "expected_answer": "GOOD Music"
+  },
+  {
+    "id": "q18",
+    "question": "Which album by Eminem was released in 2002?",
+    "filter_type": "album",
+    "relevant_doc_ids": ["album_the_eminem_show"],
+    "expected_answer": "The Eminem Show"
+  },
+  {
+    "id": "q19",
+    "question": "What is trip hop?",
+    "filter_type": "genre",
+    "relevant_doc_ids": ["genre_trip_hop"],
+    "expected_answer": "electronic music genre"
+  },
+  {
+    "id": "q20",
+    "question": "What is the Eurovision Song Contest?",
+    "filter_type": "event",
+    "relevant_doc_ids": ["event_eurovision_song_contest"],
+    "expected_answer": "song competition"
+  }
+]

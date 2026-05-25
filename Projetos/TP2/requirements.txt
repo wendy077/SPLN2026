@@ -1,0 +1,17 @@
+requests
+PyYAML
+beautifulsoup4
+trafilatura
+tqdm
+pandas
+numpy
+scikit-learn
+rank-bm25
+sentence-transformers
+transformers
+torch
+datasets
+accelerate>=0.20.0
+gradio
+matplotlib
+umap-learn

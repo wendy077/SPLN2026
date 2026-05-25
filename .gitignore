@@ -1,1 +1,5 @@
 .DS_Store
+.venv/
+__pycache__/
+Projetos/TP2/models/qa_finetuned/model.safetensors
+**/models/qa_finetuned/model.safetensors
